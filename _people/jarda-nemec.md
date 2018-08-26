@@ -1,14 +1,15 @@
 ---
-uid: Jaroslav.Němec
+uid: Jaroslav.Nemec
 name:     Jaroslav Němec  	# běžně používáné jméno
 titles:
   before: 
   after: 
 category:
   - clenove
+  - kontaktni_osoba
 ordclenove: 1
 description: kurátor Kabinetu architektury
-#img: people/prvni-leader.jpg # zakomentuj radek dokud není fotka
+img: people/Jaroslav-Nemec.jpg # zakomentuj radek dokud není fotka
 mail:
   - jaroslav.nemec@pirati.cz
 profiles: 

@@ -18,7 +18,7 @@ administrator:
 organization:
   name: Praha 2
   shortName: Praha 2
-  contactUid: jaroslav.nemec 
+  contactUid: Jaroslav.Nemec 
   email: jaroslav.nemec@pirati.cz
   phone: +420 608 408 587
   address: |
@@ -36,16 +36,11 @@ organization:
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
   - type: organizationEmail
-  - type: organizationRedmineLink
   - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
