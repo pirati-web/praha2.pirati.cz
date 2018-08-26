@@ -1,29 +1,23 @@
 ---
-uid: prvni.leader
-name:     První Leader  	# běžně používáné jméno
+uid: Jaroslav.Němec
+name:     Jaroslav Němec  	# běžně používáné jméno
 titles:
-  before: Bc.
-  after: DiS.
+  before: 
+  after: 
 category:
   - clenove
-  - kandidat-obec
-ordclenove: 3
-description: mistr světa ve skoku pro něco # zobrazuje se v lide
-profession: knihovník
+ordclenove: 1
+description: kurátor Kabinetu architektury
 #img: people/prvni-leader.jpg # zakomentuj radek dokud není fotka
 mail:
-  - prvni.leader@pirati.cz
-profiles:
+  - jaroslav.nemec@pirati.cz
+profiles: https://www.facebook.com/jarnemec?ref=br_rs
   facebook: https://www.facebook.com/uzivatel.na.fb  # pokud nema, staci smazat tuto radku
-  googleplus: https://plus.google.com/+uzivatel.na.googleplus
-  twitter: https://twitter.com/uzivatel.na.twitteru
+ 
 ---
 
-Jméno Příjmení (*1. ledna 1900) je to a to, a tak dál. Sem patří představení člověka, několik odstavců.
+Jaroslav Němec (* 14. srpna 1978) se narodil v Ostravě. Žije a pracuje v Praze. Je činný v oblasti umělecké tvorby, občanských aktivit a politiky.
+Je kurátorem Kabinetu architektury, který je jediným členem ICAM (Mezinárodní konfederace architektonických muzeí / International Confederation of Architectural Museums) v České republice. V rámci sdružení pořádá kulturní akce a výstavy, především o architektuře v Ostravě, Praze, Brně, Bratislavě (SK), Glivicích (PL), Vratislavě (PL) a dalších městech.
+Vystudoval užitou malbu na SUPŠ v Ostravě (1999) u Jana Václavíka a Vlastimila Bártka. Veškerá dokumentace je k dispozici na internetové adrese: [jarnemec.com](jarnemec.com) 
 
-**Vzdělání/práce:** Studoval něco, teď dělá něco.
-
-**Politik:** Třeba čemu se věnuje.
-
-**Osobní:** Něco dalšího, měnit dle libosti, tady může být cokoliv. Není nutné, aby byly nadpisy tučně. Fakt jak chcete.
 
