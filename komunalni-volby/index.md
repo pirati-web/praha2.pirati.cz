@@ -1,11 +1,6 @@
 ---
 layout: communal-elections
-title: Komunální volby v Praze
+title: Komunální volby v Praze 2
 campaignCategoryUid: praha2018
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
-
-Úvodní text např. vysvětlení koalice, podpory.
-
-> "Vyhrajeme volby," říká leader.
-
