@@ -4,6 +4,10 @@ uid: radnice
 number: 4 
 leader:
   uid: jaroslav.nemec
+  age: 39
+  profession: kurátor architektonických výstav
+  party:
+  description: 
 
 
 tail: 
