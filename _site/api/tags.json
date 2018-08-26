@@ -1,0 +1,80 @@
+
+
+
+[
+  {
+  
+  
+  
+  "tag1":  [
+    
+      {
+        "title"   : "Článek s embeddnutým flickerem",
+        "excerpt" : "",
+        "url"     : "/aktuality/clanek-s-embeddnutym-flickerem.html"
+      }
+      ,
+    
+      {
+        "title"   : "Článek s videem místo obrázku",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/clanek-s-videem-misto-obrazku.html"
+      }
+      ,
+    
+      {
+        "title"   : "Článek s vložený videem uvnitř textu",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/clanek-s-embednutym-videem.html"
+      }
+      ,
+    
+      {
+        "title"   : "Nadpis článku",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/priklad.html"
+      }
+      
+    
+    
+    
+  ],
+  
+  
+  
+  "tag2":  [
+    
+      {
+        "title"   : "Článek s embeddnutým flickerem",
+        "excerpt" : "",
+        "url"     : "/aktuality/clanek-s-embeddnutym-flickerem.html"
+      }
+      ,
+    
+      {
+        "title"   : "Článek s videem místo obrázku",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/clanek-s-videem-misto-obrazku.html"
+      }
+      ,
+    
+      {
+        "title"   : "Článek s vložený videem uvnitř textu",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/clanek-s-embednutym-videem.html"
+      }
+      ,
+    
+      {
+        "title"   : "Nadpis článku",
+        "excerpt" : "Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.",
+        "url"     : "/aktuality/priklad.html"
+      }
+      
+    
+    
+    
+  ]
+  
+  }
+]

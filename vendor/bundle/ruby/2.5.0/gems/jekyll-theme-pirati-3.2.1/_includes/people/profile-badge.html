@@ -1,0 +1,57 @@
+{% capture label %}
+    {% if include.item.name %}{{ include.item.name }}{% else %}{{ include.item.title }}{% endif %}
+{% endcapture %}
+{% if include.item.url contains 'http' %}
+    {% assign url = include.item.url %}
+{% else %}
+    {% assign url = include.item.url | relative_url %}
+{% endif %}
+<div class="o-media o-media-list {% if include.style == 'card' %}o-media--rpadded o-media--fill{% endif %}">
+    <div class="o-media__section">
+      {% comment %} {% if include.imgSize != 'big' %}
+          <a href="{{ url }}">{% asset '{{ include.item.img }}' magick:resize='100x100^' magick:gravity='center' magick:crop='100x100+0+0' alt='{{ label }}' %}</a>
+      {% else %}
+          <a href="{{ url }}">{% asset '{{ include.item.img }}' magick:resize='165x165^' magick:gravity='center' magick:crop='165x165+0+0' alt='{{ label }}' %}</a>
+      {% endif %} {% endcomment %}
+      {%- capture img -%}
+        {%- if include.item.img -%}
+          {%- if include.imgSize != 'big' -%}
+            {% asset '{{ include.item.img }}' magick:resize='100x100^' magick:gravity='center' magick:crop='100x100+0+0' @path %}
+          {%- else -%}
+            {% asset '{{ include.item.img }}' magick:resize='165x165^' magick:gravity='center' magick:crop='165x165+0+0' @path %}
+          {%- endif -%}
+        {%- else -%}
+          {{ 'assets/img/people/unknown-pirate.svg' | relative_url }}
+        {%- endif -%}
+      {%- endcapture -%}
+      <a href="{{ url }}"><img src="{{ img }}" alt="{{ label }}" class="{% if include.imgStyle == 'round' %}o-media__image--round{% endif %}" {% if include.imgSize != 'big' %}style="width: 100px"{% endif %}></a>
+    </div>
+    <div class="o-media__section">
+      <div class="o-media__section-inner {% if include.style == 'card' %}o-media__section-inner--vpadded{% endif %}">
+          <h2><a href="{{ url }}" class="c-headline-anchor {% if include.headlineClass %}{{ include.headlineClass }}{% else %}t-h2{% endif %}">{{ label }}</a></h2>
+          {% unless include.showDescription == false %}
+          <p>
+              {% if include.description %}
+                  {{ include.description }}
+              {% else %}
+                  {{ include.item.description }}
+              {% endif %}
+          </p>
+          {% endunless %}
+
+          {% unless include.showContactInfo == false %}
+              {% if include.item.mob or include.item.mail %}
+                  <p>
+                      {% if include.item.mob %}
+                          <i class="fa fa-phone"></i> <a class="c-emphasized-anchor" href="tel:{{ include.item.mob }}">{{ include.item.mob }}</a>
+                          <br>
+                      {% endif %}
+                      {% if include.item.mail %}
+                          <i class="fa fa-envelope-o"></i> <a class="c-emphasized-anchor" href="mailto:{{ include.item.mail }}">{{ include.item.mail }}</a>
+                      {% endif %}
+                  </p>
+              {% endif %}
+          {% endunless %}
+        </div>
+    </div>
+</div>

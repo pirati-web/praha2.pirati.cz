@@ -1,0 +1,75 @@
+$tsb-ns: '';
+
+nav.#{$tsb-ns}c-top-sub-nav {
+  background: $light-gray;
+}
+
+.#{$tsb-ns}c-top-sub-nav .#{$tsb-ns}c-top-sub-nav-inner {
+  display: flex;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  overflow-y: hidden;
+
+  @include breakpoint(mobile down) {
+    text-align: center;
+    flex-direction: column;
+  }
+}
+
+.#{$tsb-ns}c-top-sub-nav .#{$tsb-ns}c-top-sub-nav__heading {
+  font-size: 1.5rem;
+  font-weight: 500;
+  font-family: $header-font-family;
+  margin: 0;
+}
+
+.#{$tsb-ns}c-top-sub-nav .#{$tsb-ns}c-top-sub-nav-divider {
+  margin: 0 2rem;
+
+  &:before {
+    content: '\f105';
+    font-family: 'FontAwesome';
+    font-size: 1.3rem;
+  }
+
+  @include breakpoint(mobile down) {
+    display: block;
+
+    &:before {
+      content: '\f107';
+      margin-left: -7px;
+    }
+  }
+}
+
+.#{$tsb-ns}c-top-sub-nav-items {
+  list-style-type: none;
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
+.#{$tsb-ns}c-top-sub-nav__item {
+  display: inline-block;
+  margin-left: 0;
+  font-size: 1.15rem;
+
+  a {
+    text-decoration: underline;
+  }
+
+  @include breakpoint(mobile down) {
+    display: block;
+  }
+}
+.#{$tsb-ns}c-top-sub-nav__item +
+.#{$tsb-ns}c-top-sub-nav__item {
+  margin-left: 2rem;
+
+  @include breakpoint(medium down) {
+    margin-left: 1rem;
+  }
+
+  @include breakpoint(mobile down) {
+    margin: 0;
+  }
+}

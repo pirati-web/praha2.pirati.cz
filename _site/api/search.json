@@ -1,0 +1,58 @@
+[
+  
+    { "label": "Článek s embeddnutým flickerem", "value": "/aktuality/clanek-s-embeddnutym-flickerem.html"},
+  
+    { "label": "Článek s videem místo obrázku", "value": "/aktuality/clanek-s-videem-misto-obrazku.html"},
+  
+    { "label": "Článek s vložený videem uvnitř textu", "value": "/aktuality/clanek-s-embednutym-videem.html"},
+  
+    { "label": "Nadpis článku", "value": "/aktuality/priklad.html"},
+  
+  
+    { "label": "Aktivní Příznivec", "value": "/lide/aktivni-priznivec/"},
+  
+    { "label": "Jakub Pirát", "value": "/lide/jakub-pirat/"},
+  
+    { "label": "Místní Předseda", "value": "/lide/misti-predseda/"},
+  
+    { "label": "První Leader", "value": "/lide/prvni-leader/"},
+  
+  
+    { "label": "Otevřená radnice", "value": "/komunalni-volby/program/praha2018/otevrena-radnice/"},
+  
+    { "label": "Životní prostředí", "value": "/komunalni-volby/program/praha2018/zivotni-prostredi/"},
+  
+    { "label": "Senát", "value": "/komunalni-volby/program/senat/senat/"},
+  
+  
+    { "label": "O nás", "value": "/lide/"},
+  
+    { "label": "Aktuality", "value": "/aktuality/"},
+  
+    { "label": "", "value": "/"},
+  
+    { "label": "", "value": "/kontakt/"},
+  
+    { "label": "Komunální volby v Praze", "value": "/komunalni-volby/"},
+  
+    { "label": "", "value": "/api/"},
+  
+    { "label": "Články podle tagu", "value": "/tags/"},
+  
+    { "label": "Mapa záměrů", "value": "/komunalni-volby/mapa-zameru"},
+  
+    { "label": "", "value": "/api/people.json"},
+  
+    { "label": "", "value": "/api/posts.json"},
+  
+    { "label": "", "value": "/api/search.json"},
+  
+    { "label": "", "value": "/api/tags.json"},
+  
+    { "label": "", "value": "/feed.xml"},
+  
+    { "label": "", "value": "/sitemap.xml"},
+  
+    { "label": "", "value": "/robots.txt"}
+  
+]
