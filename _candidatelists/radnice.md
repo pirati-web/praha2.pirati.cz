@@ -4,9 +4,6 @@ uid: radnice
 number: 4 
 leader:
   uid: jaroslav.nemec
-  age:
-  profession: kurátor architektonických výstav
-  party: Piráti
 
 
 tail: 
