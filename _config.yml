@@ -5,22 +5,22 @@
 # technické nastavení
 #
 
-title: Your awesome title
-email: info@pirati.cz
+title: Praha 2
+email: praha2@pirati.cz
 description: >-
   Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: piráti, česká pirátská strana, svoboda, demokracie, Praha 2
 
 administrator:
-  email: to@pirati.cz # mail kam pujdou chybove vystupy
+  email: dino.adrnautovic@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  contactUid: jakub.pirat
-  email: example@pirati.cz
-  phone: +420 777 123 456 789
+  name: Praha 2
+  shortName: Praha 2
+  contactUid: jaroslav.nemec 
+  email: jaroslav.nemec@pirati.cz
+  phone: +420 608 408 587
   address: |
     Řehořova 943/19,
     130 00 Praha 3
@@ -51,16 +51,17 @@ calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
-  title: Celostátní kalendář
-  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+  apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
+  id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
+  title: "Celopražský kalendář"
+  page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
 
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
-  profilePageName: Nějaký název FB profilu
-  appId: 1526197851008996
+  profilePage: https://www.facebook.com/piratipraha2/
+  profilePageName: Piráti Praha 2
+  #appId: 1526197851008996
 
 twitter:
   loadSDK: true
@@ -71,7 +72,7 @@ instagram:
 
 gplus:
   profilePage: https://plus.google.com/u/0/+piratskastrana
-
+  
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
