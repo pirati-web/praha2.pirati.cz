@@ -9,7 +9,7 @@ category:
   - predsednictvo
 ordclenove: 4
 description: knihovnice
-img: people/lydie.bartosova.jpg # zakomentuj radek dokud není fotka
+img: people/lydie-bartosova.jpg # zakomentuj radek dokud není fotka
 mail:
   - lydie.bartosova@pirati.cz
 profiles: 

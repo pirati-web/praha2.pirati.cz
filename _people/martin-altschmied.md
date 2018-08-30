@@ -6,7 +6,7 @@ titles:
   after: MBA
 category:
   - clenove
-img: people/martin.altschmied.jpg # zakomentuj radek dokud není fotka
+img: people/martin-altschmied.jpg # zakomentuj radek dokud není fotka
 ordclenove: 7
 mail:
   - martin.altschmied@pirati.cz
