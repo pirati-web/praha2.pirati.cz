@@ -9,17 +9,18 @@ leader:
   party:
   description: 
 
+head: 
+  - uid: magdalena.valdmanova 
+  - uid: robert.veverka
+  - uid: lydie.bartosova 
+  - uid: dino.arnautovic
+  - uid: lukas.funk 
+  - uid: martin.altschmied
+  - uid: miroslav.kodada
+  - uid: radek.zykan
+  - uid: robert.rames
 
 tail: 
-  - name: Magdalena Valdmanová 
-  - name: Robert Veverka
-  - name: Lydie Frank Bartošová 
-  - name: Dino Arnautovič
-  - name: Mgr. Lukáš Funk 
-  - name: Ing. Martin Altschmied
-  - name: Mgr. Miroslav Kodada
-  - name: Ing. arch. Radek	Zykan
-  - name: Mgr. Robert 	Rameš
   - name: Jan Horák
   - name: Ing. Viliam Jäger
   - name: Bc.	Filip Smoljak

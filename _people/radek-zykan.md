@@ -1,5 +1,5 @@
 ---
-uid: radek.zyken
+uid: radek.zykan
 name:     Radek Zykan  	# běžně používáné jméno
 titles:
   before: Ing. arch. 
