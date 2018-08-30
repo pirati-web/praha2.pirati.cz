@@ -5,7 +5,6 @@ titles:
   before: 
   after: 
 category:
-  - clenove
   - predsednictvo
 ordclenove: 4
 description: knihovnice
