@@ -8,6 +8,8 @@ category:
   - clenove
 img: people/martin-altschmied.jpg # zakomentuj radek dokud není fotka
 ordclenove: 7
+description: business analytik
+
 mail:
   - martin.altschmied@pirati.cz
 profiles:
