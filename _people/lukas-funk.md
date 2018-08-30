@@ -8,6 +8,7 @@ category:
   - clenove
 img: people/lukas-funk.jpg # zakomentuj radek dokud není fotka
 ordclenove: 6
+description: archeolog, numismatik
 mail:
   - lukas.funk@pirati.cz
 profiles:
