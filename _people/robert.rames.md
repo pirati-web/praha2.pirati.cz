@@ -8,6 +8,7 @@ category:
   - clenove
 img: people/robert-rames.jpg # zakomentuj radek dokud není fotka
 ordclenove: 10
+description: IT, Právník
 mail:
   - robert.rames@pirati.cz
 profiles:
