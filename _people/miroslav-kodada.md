@@ -9,6 +9,8 @@ category:
 
 img: people/miroslav-kodada.jpg # zakomentuj radek dokud není fotka
 ordclenove: 8
+description: pilot PPL-H
+
 mail:
   - miroslav.kodada@pirati.cz
 profiles:
