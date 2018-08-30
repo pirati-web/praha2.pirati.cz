@@ -1,7 +1,6 @@
 ---
 title: Doprava
 campaignCategoryUid: praha2018
-img: doprava.svg
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=42511
 garant: vit.mahrik 
