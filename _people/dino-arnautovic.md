@@ -6,6 +6,8 @@ titles:
   after: 
 category:
   - clenove
+  - predsednictvo
+
 ordclenove: 5
 description: student práv
 img: people/dino-arnautovic.jpg # zakomentuj radek dokud není fotka
