@@ -6,7 +6,7 @@ titles:
   after: 
 category:
   - predsednictvo
-ordclenove: 4
+ordpms: 1
 description: knihovnice
 img: people/lydie-bartosova.jpg # zakomentuj radek dokud není fotka
 mail:
