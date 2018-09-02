@@ -21,4 +21,4 @@ Studovala speciální pedagogiku se zaměřením na muzikoterapii, nyní studuje
 
 Zajímá jí problematika podmínek důstojného života a progresivního vzdělávání. Signatářka memoranda Političky napříč spektrem, členka Republikového výboru Pirátů a předsedkyně místního sdružení Piráti Praha 2
 
-Vdaná, pečuje o 12ti letou dceru, ráda poslouchá ticho vnitrobloku. 
+Vdaná, pečuje o 12. letou dceru, ráda poslouchá ticho vnitrobloku. 
