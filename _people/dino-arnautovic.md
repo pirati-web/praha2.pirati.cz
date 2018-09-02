@@ -7,7 +7,7 @@ titles:
 category:
   - predsednictvo
 
-ordclenove: 5
+ordpms: 3
 description: student práv
 img: people/dino-arnautovic.jpg # zakomentuj radek dokud není fotka
 mail:
