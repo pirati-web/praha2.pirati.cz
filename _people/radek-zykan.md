@@ -7,7 +7,7 @@ titles:
 category:
   - prizinivci
 img: people/radek-zykan.jpg # zakomentuj radek dokud není fotka
-ordclenove: 9
+
 description: architekt, učitel na VŠ 
 
 mail:
