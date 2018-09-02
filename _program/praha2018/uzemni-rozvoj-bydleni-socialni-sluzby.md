@@ -3,7 +3,6 @@ title: Územní rozvoj, bydlení a sociální služby
 campaignCategoryUid: praha2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41531
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-garant: vit.simral
 relatives: []
 perex: >
   Pražané v současné době čelí prudkému nárůstu cen nájemního i vlastnického bydlení. Trend nárůstu cen za bydlení je důsledkem nezvládnutého politického a administrativního řízení bytové politiky ze strany státu, magistrátu i některých městských částí. Ve volebním období 2018 - 2022 chceme učinit kroky potřebné pro zastavení tohoto trendu.
