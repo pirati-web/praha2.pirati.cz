@@ -13,12 +13,12 @@ contentSize: default
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajímá vás co dělají Piráti v Praze 2? Napište nám na mail nebo za námi přijďte na schůzi, která
+Zajímá vás, co dělají Piráti v Praze 2? Napište nám na mail nebo za námi přijďte na schůzi, která
 se koná každou středu od 18:00, místo setkání vám upřesníme v mailu. 
 
-Chcete přístup k pirátským systémům? Regitrujte se na [nalodění].(https://nalodeni.pirati.cz) 
+Chcete přístup k pirátským systémům? Registrujte se na [nalodění.](https://nalodeni.pirati.cz) 
 
 Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo našemu místnímu sdružení, poradťe se s [Dinem Arnautovičem].(https://praha2.pirati.cz/lide/dino-arnautovic)
+Pokud chcete darovat přimo našemu místnímu sdružení, poradťe se s [Dinem Arnautovičem.](https://praha2.pirati.cz/lide/dino-arnautovic)
 
 
