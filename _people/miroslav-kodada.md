@@ -8,7 +8,7 @@ category:
   - predsednictvo
 
 img: people/miroslav-kodada.jpg # zakomentuj radek dokud není fotka
-ordclenove: 8
+ordpms: 2
 description: pilot PPL-H
 
 mail:
