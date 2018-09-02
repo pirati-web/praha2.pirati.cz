@@ -5,7 +5,7 @@ titles:
   before: 
   after: 
 category:
-  - clenove
+  - priznivci
 ordclenove: 3
 description: vydavatel
 img: people/robert-veverka.jpg # zakomentuj radek dokud není fotka
