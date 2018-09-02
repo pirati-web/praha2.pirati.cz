@@ -2,12 +2,11 @@
 date: 2018-08-26
 category: blog
 tags:
-    - tag1
-    - tag2
+  
 layout: post
 title: NA PRAHU ZMĚNY – dvojka má možnost být ještě lepším místem k životu
-author: Jaroslav Němec
-authorId: jaroslav.nemec   # uid nekoho z _people (nepoviné)
+author: 
+authorId: 
 image: posts/fotka-jaroslav-noviny .jpg
 
 ---
