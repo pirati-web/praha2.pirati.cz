@@ -24,5 +24,5 @@ V současné době je členem bezpečnostní komise Rady městské části Praha
 
 Žije v Praze 2 s partnerkou Veronikou a dcerou Sárou.
 
-Pracovní reference:
+Reference:
 Magazín Legalizace, Legalizace.cz, mezinárodní veletrh konopí Cannafest, MFF Febiofest, Teatr Novogo Fronta, Freezefest.cz, Million Marihuana March, Vechtclub.nl, ZŠ Londýnská, Cap Gemini, Pragensys a další…
