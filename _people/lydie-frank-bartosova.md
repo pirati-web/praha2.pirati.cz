@@ -1,6 +1,6 @@
 ---
 uid: lydie.bartosova
-name:     Lýdie Frank Bartošová  	# běžně používáné jméno
+name:     Lydie Franka Bartošová  	# běžně používáné jméno
 titles:
   before: 
   after: 
