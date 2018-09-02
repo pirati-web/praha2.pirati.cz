@@ -5,7 +5,7 @@ titles:
   before: Ing. arch. 
   after:
 category:
-  - prizinivci
+  - priznivci
 img: people/radek-zykan.jpg # zakomentuj radek dokud není fotka
 
 description: architekt, učitel na VŠ 
