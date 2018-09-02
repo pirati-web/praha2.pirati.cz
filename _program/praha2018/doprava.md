@@ -3,7 +3,7 @@ title: Doprava
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=42511
-garant: vit.mahrik 
+garant:
 perex: >
   Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných druhů dopravy, zejména metra, vlaků a tramvají. Chceme MHD dostupnější, pohodlnější a jednoduše použitelnou nejen pro Pražany, ale i pro návštěvníky Prahy.  V oblasti automobilové dopravy zlepšíme veřejnou kontrolu investic a oprav infrastruktury.
 ---
