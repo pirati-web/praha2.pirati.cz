@@ -19,6 +19,6 @@ na schůzi, kterou pořádáme každou středu od 18:00, místo upřesníme vžd
 Chcete přístup k pirátskym systémum? Regitrujte se na [nalodění](https://nalodeni.pirati.cz) 
 
 Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo našemu místnímu sdružení poradtě se s [Dinem Arnautovičem](https://praha2.pirati.cz/lide/dino-arnautovic)
+Pokud chcete darovat přimo našemu místnímu sdružení poradťe se s [Dinem Arnautovičem](https://praha2.pirati.cz/lide/dino-arnautovic)
 
 
