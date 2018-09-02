@@ -2,12 +2,11 @@
 date: 2018-08-26
 category: blog
 tags:
-    - tag1
-    - tag2
+   
 layout: post
 title: Byli Jsme v Praze hlídacími psy, nyní jsme připraveni radnice vést 
-author: Jaroslav Němec
-authorId: jaroslav.nemec   # uid nekoho z _people (nepoviné)
+author: 
+authorId: 
 image: posts/piratske-logo.jpg
 ---
 
