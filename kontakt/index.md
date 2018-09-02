@@ -13,14 +13,12 @@ contentSize: default
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajámá vás co piráti dělají? Ozvěte se Jakubu Pirátovy nebo přijďte k nám
-na schůzi kterou pořádáme v XY.
+Zajámá vás co dělají piráti v Praze 2? Napište nám na náš mail, nebo přijďte k nám
+na schůzi, kterou pořádáme každou středu od 18:00, místo upřesníme vždy v mailu. 
 
-Chcete přístup k pirátskym systémum? Regitrujte se na nalodění. TODO odkaz.
+Chcete přístup k pirátskym systémum? Regitrujte se na [nalodění](https://nalodeni.pirati.cz) 
 
 Financí dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poradtě se s XY
+Pokud chcete darovat přimo naší MS poradtě se s [Dinem Arnautovičem](https://praha2.pirati.cz/lide/dino-arnautovic)
 
-
-Strany našeho kraje jsou TODO.
 
