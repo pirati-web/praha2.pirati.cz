@@ -2,12 +2,11 @@
 date: 2018-08-26
 category: blog
 tags:
-    - tag1
-    - tag2
+
 layout: post
 title: Železniční most
-author: Jaroslav Němec
-authorId: jaroslav.nemec   # uid nekoho z _people (nepoviné)
+author: 
+authorId: 
 image: posts/foto-most.jpg
 ---
 
