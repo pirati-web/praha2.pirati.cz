@@ -2,8 +2,7 @@
 title: Školství, sport a volný čas
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-approved: https://forum.pirati.cz/viewtopic.php?f=349&t=42511
-garant: dan.mazur 
+approved: https://forum.pirati.cz/viewtopic.php?f=349&t=42511 
 perex: >
   Pražské školy vychovávají budoucí občany schopné se prosadit v rychle se měnících podmínkách, zdaleka ne jen pro potřeby pracovního trhu. Budeme školám poskytovat dostatek financí na mzdy, provoz a meziškolní aktivity, ale i na profesní rozvoj učitelů a na zavedení a rozvoj inovativních vzdělávacích směrů podle poptávky Pražanů.
 ---
