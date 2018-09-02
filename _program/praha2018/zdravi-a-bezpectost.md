@@ -3,7 +3,6 @@ title: Zdravotnictví a bezpečnost
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=42511
-garant: zdenek.hrib
 perex: >
   Praha začne koncepčně řídit péči o zdraví a bezpečnost svých obyvatel pomocí existujících dostupných dat. Postavíme se čelem k aktuálním zdravotním rizikům pro občany velkoměsta. Namísto drahé a zbytečné šikany nasměrujeme peníze tam, kde jsou reálně potřeba.
 ---
