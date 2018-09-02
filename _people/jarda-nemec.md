@@ -22,4 +22,6 @@ Je kurátorem Kabinetu architektury, který je jediným členem ICAM (Meziná
 
 Vystudoval užitou malbu na SUPŠ v Ostravě (1999) u Jana Václavíka a Vlastimila Bártka. Veškerá dokumentace je k dispozici na internetové adrese: [jarnemec.com](jarnemec.com) 
 
+[Veřejný kalendář](https://calendar.google.com/calendar/embed?src=3n73qjs6nl61suaf00icr46te4%40group.calendar.google.com&ctz=Europe%2FPrague)
+
 
