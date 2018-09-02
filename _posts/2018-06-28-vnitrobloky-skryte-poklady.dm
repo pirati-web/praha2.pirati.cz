@@ -10,7 +10,7 @@ authorId:  # uid nekoho z _people (nepoviné)
 image: posts/vnitrobloky.jpg
 ---
 
-Krása městského plánování na pře- lomu 19. a 20. století, kdy vznik- la podstatná část dnešní zástavby
+Krása městského plánování na přelomu 19. a 20. století, kdy vznikla podstatná část dnešní zástavby
 Prahy 2, spočívala v organizaci domů do ucelených bloků.
 
 Mezi bloky byly ulice a ve vnitru bloků zahrada, ze které byl ruch vnějšího světa krásně eliminován. Totéž platí i dnes, v době, kdy okraje ulic lemují zaparkovaná auta a průjezdnému pruhu uprostřed vládne provoz, jsou „vnitrobloky“ oázami klidu. Pohled z letadla na Prahu 2 odhalí, kolik zeleně se mezi domy opravdu skrývá.
