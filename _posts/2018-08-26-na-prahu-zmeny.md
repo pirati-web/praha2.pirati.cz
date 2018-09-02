@@ -5,7 +5,7 @@ tags:
     - tag1
     - tag2
 layout: post
-title: na Prahu změny – dvojka má možnost být ještě lepším místem k životu
+title: NA PRAHU ZMĚNY – dvojka má možnost být ještě lepším místem k životu
 author: Jaroslav Němec
 authorId: jaroslav.nemec   # uid nekoho z _people (nepoviné)
 image: posts/fotka-jaroslav-noviny .jpg
