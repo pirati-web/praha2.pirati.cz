@@ -10,7 +10,7 @@ ordclenove: 3
 description: vydavatel
 img: people/robert-veverka.jpg # zakomentuj radek dokud není fotka
 mail:
-  - robert@legalpub.cz
+  - robert@legalizace.cz
 profiles: 
 
 ---
@@ -25,4 +25,4 @@ V současné době je členem bezpečnostní komise Rady městské části Praha
 Žije v Praze 2 s partnerkou Veronikou a dcerou Sárou.
 
 Reference:
-Magazín Legalizace, Legalizace.cz, mezinárodní veletrh konopí Cannafest, MFF Febiofest, Teatr Novogo Fronta, Freezefest.cz, Million Marihuana March, Vechtclub.nl, ZŠ Londýnská, Cap Gemini, Pragensys a další…
+Magazín Legalizace, Legalizace.cz, Million Marihuana March, MFF Febiofest, Teatr Novogo Fronta, Vechtclub.nl, ZŠ Londýnská, Cap Gemini, Pragensys a další… 
