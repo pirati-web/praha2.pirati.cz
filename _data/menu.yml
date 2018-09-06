@@ -22,9 +22,7 @@ main:
   - link: /kontakt/
     name: Kontakt
     match: kontakt
-  - link: /rts/
-    name: Rts
-    match: rts
+
 
 bottom:
   - class: small-12 medium-4
