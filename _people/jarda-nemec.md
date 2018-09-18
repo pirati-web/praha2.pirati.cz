@@ -16,11 +16,7 @@ profiles:
   facebook: https://www.facebook.com/jarnemec?ref=br_rs
 ---
 
-(* 14. srpna 1978) se narodil v Ostravě. Žije a pracuje v Praze. Je činný v oblasti umělecké tvorby, občanských aktivit a politiky.
-
-Je kurátorem Kabinetu architektury, který je jediným členem ICAM (Mezinárodní konfederace architektonických muzeí / International Confederation of Architectural Museums) v České republice. V rámci sdružení pořádá kulturní akce a výstavy, především o architektuře v Ostravě, Praze, Brně, Bratislavě (SK), Glivicích (PL), Vratislavě (PL) a dalších městech.
-
-Vystudoval užitou malbu na SUPŠ v Ostravě (1999) u Jana Václavíka a Vlastimila Bártka. Veškerá dokumentace je k dispozici na internetové adrese: [jarnemec.com](jarnemec.com) 
+Jaroslav Němec (* 14. 8. 1978 v Ostravě) žije a pracuje v Praze. Ženatý, otec tří dcer. Člen Pirátů a Klubu za starou Prahu, místopředseda spolku [Kabinet architektury](http://kabinetarchitektury.cz/) (člen ICAM – Mezinárodní konfederace architektonických muzeí). Jako kurátor architektonických výstav je spoluautorem mnoha výstavních projektů nejen u nás, ale i v dalších zemích střední Evropy. Zároveň je spolueditorem a grafikem publikací o architektuře a historii. V současné době pracuje jako asistent pirátských poslanců. Jeho zájmem je architektura, památková péče a umění. Osobní stránky: [jarnemec.com](http://jarnemec.com)
 
 [Veřejný kalendář](https://calendar.google.com/calendar/embed?src=3n73qjs6nl61suaf00icr46te4%40group.calendar.google.com&ctz=Europe%2FPrague)
 
