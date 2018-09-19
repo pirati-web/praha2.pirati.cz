@@ -37,7 +37,7 @@ tail:
   - name: Salko Arnautovič
   - name: Bc.	Jana 	Skořepová
   - name: Vítek Raban	Dis.
-  - name: Lukáš Kuta	Kuta
+  - name: Lukáš Kuta	
   - name: Jaroslav Němeček
   - name: Ing. Karel Funk
   - name: Jasminka Arnautovič
