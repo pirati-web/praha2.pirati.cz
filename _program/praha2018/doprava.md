@@ -1,88 +1,39 @@
 ---
-title: Doprava
+title: Program pro Prahu 2
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018  # identifier of the group, to be used in program point
-approved: https://forum.pirati.cz/viewtopic.php?f=349&t=42511
+approved:
 perex: >
-  Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných druhů dopravy, zejména metra, vlaků a tramvají. Chceme MHD dostupnější, pohodlnější a jednoduše použitelnou nejen pro Pražany, ale i pro návštěvníky Prahy.  V oblasti automobilové dopravy zlepšíme veřejnou kontrolu investic a oprav infrastruktury.
+
+  Praha 2 je krásné místo k městskému živo- tu. Chceme podporovat dobré sousedství pro všechny obyvatele bez rozdílů sociálního či jiného postavení. Všichni jsme sousedé, všichni jsme obyvatelé naší čtvrti, kterou budeme spravovat ku prospěchu všech s péčí řádného hospodáře. Chceme moderní městský obvod.
 ---
 
-*Zvýšíme plynulost dopravy podporou kapacitních a nejméně prostorově náročných
-druhů dopravy, zejména metra, vlaků a tramvají. Chceme MHD dostupnější,
-pohodlnější a jednoduše použitelnou nejen pro Pražany, ale i pro návštěvníky Prahy.
-V oblasti automobilové dopravy zlepšíme veřejnou kontrolu investic a oprav
-infrastruktury.*
+*Praha 2 je krásné místo k městskému živo- tu. Chceme podporovat dobré sousedství pro všechny obyvatele bez rozdílů sociálního
+či jiného postavení. Všichni jsme sousedé, všichni jsme obyvatelé naší čtvrti, kterou bu- deme spravovat ku prospěchu všech s péčí řádného hospodáře. Chceme moderní městský obvod.*
 
-### Zlepšíme dostupnost a kvalitu MHD pro všechny
-* **Podporujeme rozvoj tramvajových tratí ve všech oblastech Prahy**. Prioritou je
-odlehčit tramvajové dopravě v centru města. Vrátíme tramvaj na Václavské náměstí
-a dobudujeme tramvajový okruh kolem centra města.Budování tramvajových tratí
-neznamená snižování počtu parkovacích míst.
-* **Urychlíme budování městských železničních linek**. Prioritou je trať propojující
-Prahu s letištěm a s Kladnem (ideálně přímo, bez zajížďky).
-* **Zmodernizujeme odbavovací systém a zastropujeme jízdné**. Odbavit se v metru
-nebo autobusu bude možné např. za pomoci platební karty nebo aplikace v chytrém
-mobilu (NFC) bez nutnosti tisknout papírový lístek. Společně s modernizací
-odbavovacího systému nastavíme pravidla tak, abyste na konci dne nezaplatili více,
-než je nutné, jako třeba v Londýně nebo v Ostravě.
-* **Zvýšíme kapacitu tramvajové dopravy, zvýšíme počet míst k sezení**. Kde to
-bude možné, prodloužíme délku tramvajových souprav. Dohlédneme na dostatečnou
-hustotu provozu, efektivní nakládání s vozovým parkem a řádné soutěže na nová
-vozidla. Zveřejníme údaje o aktuální poloze spojů MHD, aby cestující zbytečně
-nečekali na zpožděné nebo vynechané spoje.
-* **Podpoříme stavbu metra D.**
-Spojení Prahy 4 a 12 metrem D patří mezi prioritní
-dopravní stavby v Praze. Metro D nebude další sestra Blanky.
-* **Zlevníme měsíční časové jízdenky na 400 Kč** - Rozdíl v ceně roční a měsíční
-jízdenky je nesmyslně velký. Pro sociálně slabší občany je někdy obtížné zaplatit
-několik tisíc za roční jízdenku najednou, a proto jezdí dráž.
+Bydlení je základní lidská potřeba. Budeme podporovat rezidenty, tedy trvale žijící obyvatele, na úkor krátkodobého ubytování. Budeme rozvíjet obecní nájemní bydlení, uděláme důkladnou inventuru bytového a nebytového fondu, opravíme a pronajmeme prázdné byty a nebytové prostory. Oblast Prahy 2 nemůže být jen pro ty, kteří si mohou dovolit osobní vlastnictví bytů. Kdo žije v našem obvodě, má právo zde bydlet i nadále, ať je to důchodce nebo mladý člověk, který teprve kráčí vstříc životním cestám. Tam, kde to bude možné, vy- tvoříme menší bytové jednotky pro dostupné bydlení (pro samoživitele, důchodce, rodiny s malými dětmi apod.) a startovací byty pro mladé. Pracovníci ve školství, sociálních služ- bách, policisté, hasiči a další státní zaměstnanci v našem obvodě budou moci využít obecních bytů, aby nemuseli za svou prací, která je veřej- nou službou, dojíždět z jiných částí Prahy a okolí. Ulice, veřejný prostor je to, co nás obklopuje, když vyjdeme z našich domovů. Chodníky má ve správě magistrát, to chceme změnit. Chceme je spravovat sami, stejně jako si sami spravujeme bytový a nebytový fond. Bývá „dobrým“ zvykem investovat do chodníků až posledních pár měsíců před volbami, jako je tomu i letos. My naopak považujeme za důležité investovat do chodníků průběžně po celé volební období. Dle podnětů veřejnosti sestavíme plán oprav podle míry poškození chodníků a budeme prů- běžně informovat o jejich následných opravách (vč. nákladů). Pohyb po městě nemá být překáž- kovou dráhou, zejména ne pro rodiče s kočárky a lidi se sníženou pohyblivostí.
 
-### Zlepšíme situaci v oblasti parkování
-* **Zasadíme se o zvýšení počtu parkovacích míst tam, kde to Pražané potřebují**.
-V
-řadě lokalit je nedostatek parkovacích míst pro rezidenty největším problémem, který
-je potřeba řešit.
-* **Vybudujeme záchytná kapacitní parkoviště pro krátkodobé i dlouhodobé
-stání návštěvníků.** Je nutné, aby záchytná parkoviště na hranicích i mimo území
-Prahy byla dobře propojena s kapacitní hromadnou dopravou.
-* **Parkování jednoduše. Zjednodušíme systém parkovacích zón.** Otevřeme data o
-využití parkovacích míst. To umožní tvořit aplikace, která uživatele snadno navede
-na volné parkovací místo.
-* **Zaparkuje u vás návštěva i řemeslník**. Rezidenti získají každý rok určitý počet
-hodin parkování zdarma pro návštěvy ve vybrané oblasti. Nebudete tedy muset platit drahé
-parkování řemeslníkovi nebo složitě vymýšlet, kam poslat zaparkovat
-návštěvu.
+Budeme se snažit snižovat vizuální smog, redukovat počet dopravních značek, různých přebytečných cedulí a agresivní, nevzhledné reklamy. Postupně sjednotíme městský mobiliář – koše, lavičky či stojany pro kola. Chceme rozšířit počet fontánek na pití a kašen. Provedeme revizi starých pump, necháme je vyčistit a opětovně uvedeme do provozu. 
 
-### Investice do silniční infrastruktury budou pokračovat
-* **Urychlíme dobudování Městského (vnitřního) okruhu a nutných návazných
-komunikací**. Městský okruh je důležitým nástrojem pro omezení automobilové
-dopravy v centru města. Měl by být tedy dostavěn a využíván. Podpoříme variantu,
-která bude vyhodnocena jako nejlepší na základě odborného posudku zahrnující mj.
-analýzu přínosů a nákladů. V návaznosti na dobudování okruhu a další infrastruktury
-provedeme opatření mající za cíl další zlepšení podmínek pro život v centru. Okruh
-by měla využívat i MHD a to včetně částí pod zemí.
-* **Spolu s našimi zástupci v parlamentu budeme usilovat o urychlenou dostavbu
-Pražského okruhu**. Podpoříme řešení okruhu, které se ukáže jako nejvhodnější z
-hlediska dopadů na obyvatele, bezpečnosti dopravy, nákladů, termínu realizace, atd.
-Cílem je vyvést tranzitní, zejména kamionovou dopravu z Prahy.
-* **Napravíme vnitřní zadluženost na dopravní infrastruktuře**. Nechceme
-další spadlé mosty. Opravy infrastruktury budeme provádět koordinovaně a
-efektivně, aby nedocházelo k zablokování celých čtvrtí a opakovaným opravám v
-krátkém časovém intervalu.
+Historicky a architektonicky cenné objekty je třeba opravovat, ne bourat. Požadujeme důkladný dohled orgánů státní správy nad stavem kulturních památek a dodržování povinnosti vlastníka kulturních památek vyplývajících ze zákona. Zachráníme Nádraží Vyšehrad.
+Budoucí kulturní památky a architektonické skvosty nevzniknou z výběrových řízení na nejnižší cenu, proto požadujeme, aby se stalo standardem, že každé významnější veřejné stavbě předchází architektonická soutěž (i kdyby to měl být třeba „jen“ parkovací dům). 
 
-### Podporujeme moderní a ekologické způsoby dopravy
-* **Podpoříme smysluplnou elektrifikaci dopravy**. Budeme zavádět elektrobusy a
-trolejbusy tam, kde to bude mít ekonomický a ekologický smysl. Budoucnost
-vidíme i v rozumně nastavených systémech pro sdílení elektrických vozidel.
-Podpoříme vybudování infrastruktury pro nabíjení v nových hromadných garážích.
+Pro široký přístup ke kulturnímu bohatství je nezbytná veřejná podpora. Knihovny, galerie
+a muzea jsou místem setkávání, sdílení informací, vzdělávání a seznamování společnosti s kulturním dědictvím. Mohou být prostorem pro společnou diskusi a reflexi společenských otázek, které přináší současná doba.
 
-### Cyklisté jsou náš respektovaný partner
-* **Prosadíme budování nových cyklistických magistrál, které umožní bezpečný a
-rychlý provoz cyklistů beze strachu, že se střetnou s auty**. Důležité je, aby
-cyklostezky byly osvětlené veřejným osvětlením, což umožní jejich využívání i mimo
-sezónu.
-* **Připravíme stojanový program a budeme rozvíjet spolupráci města s
-poskytovateli sdílení kol**. V oblasti bikesharingu je třeba zajistit, aby odstavená kola
-neobtěžovala chodce.
-* **Budeme budovat nová propojení na místě historických polních cest**. Tím
-zajistíme pohodlné propojení i okrajových městských částí.
+Pro spokojené sousedství je důležitý komunitní život. Podpoříme všechny druhy aktivit, které zpříjemní soužití obyvatel našeho obvodu. Vytipujeme místa vhodná např. pro komunitní zahrady a aktivně se zapojíme do jejich vzniku.
+Vedle klasických škol budeme podporovat i školy alternativní a progresivní. Chceme, aby inovativní
+vzdělávání nebylo doménou
+jen soukromých škol. Veřejné školy by měly poskytovat
+různorodé formy vzdělávání
+v souladu se současnými pedagogickými poznatky tak, aby se neprohlubovala propast v dostupnosti kvalitního vzdělávání. Zároveň pod- porujeme konkurenci a vzájemnou inspiraci prostřednictvím umožnění vzniku soukromých škol v oblasti, aby nebylo nutné rozvážet děti na okraje Prahy. Budeme podporovat dětské skupiny, jesle a mateřské školy, aby mít děti nemuselo znamenat ztrátu kontaktu s profesí nebo existenční problémy. Zlepšíme vybavení dětských hřišť a sportovišť. Chceme také dbát na dostatek dětských koutků a míst na přeba- lování a kojení v budovách veřejných institucí a dalších městských zařízeních.
+
+Radnice bude otevřená a přívětivá, s živým vysíláním ze zastupitelstva, s přehledným rozkliká- vacím rozpočtem až na úroveň faktur. Nebudete muset posílat dotazy dle Zákona o svobodném
+přístupu k informacím (106/1999 Sb.), protože všechny aktivity obvodu budou zveřejněny na jeho webu. Veškeré podklady jednání musí být zveřejněny v dostatečném časovém předsti- hu. Všechny městské orgány by měly pořádat časté a pravidelné veřejné diskuse, na kterých by prezentovaly svou činnost a své vize. Smart Cities nejsou o „chytrých Wi-Fi houpačkách“, ale o datech, informacích a interakcích, které komunitě, ale nejen jí, zprostředkují příjemnější život v Praze 2 formou čistšího prostředí, snadnějšího parkování nebo jednodušší komunikace s úřady.
+
+Chceme získávat od občanů, spolků a občanských iniciativ zpětnou vazbu k činnosti obvodu. Stejně tak vyjdeme vstříc občanům, kteří chtějí ve svém okolí organizovat diskuse o lokálních
+otázkách (pískoviště, kontejnery, bezpečí) – například propůjčením prostor a technickým zázemím. Podporujeme praxi, kdy aktivní ob- čané či spolky mají ve své lokalitě zastoupení v odborných komisích, jež pomáhají připravovat návrhy pro zastupitelstvo nebo kontrolují činnost zastupitelstva a rady.
+
+Ukončíme radniční klientelismus přetrvávající od devadesátých let minulého století. Taková správa města do 21. století nepatří. Pojďme společně otevřít radnici, začít žít naše město, náš městský obvod v duchu současnosti. Radnici Prahy 2 je třeba řádně vyvětrat!
+
+Podrobný program Pirátů v Praze najdete na https://praha.pirati.cz/program/
