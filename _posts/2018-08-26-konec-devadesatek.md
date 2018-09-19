@@ -4,10 +4,10 @@ category: blog
 tags:
     
 layout: post
-title: Konec devadesátek v Praze 2 aneb z devadesátek do 21. století
+title: Programové téze pro Prahu 2
 author:
 authorId:  # uid nekoho z _people (nepoviné)
-image: posts/piratske-logo.jpg
+image: posts/skupinovafotka.jpg
 ---
 
 Praha 2 je krásné místo k městskému životu. Chceme podporovat dobré sousedství pro všechny obyvatele bez rozdílů sociálního
