@@ -48,6 +48,4 @@ tail:
   - name: Mgr. Petra Beaver
   
   
-note: # poznámka pod kanidátku
-    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---
