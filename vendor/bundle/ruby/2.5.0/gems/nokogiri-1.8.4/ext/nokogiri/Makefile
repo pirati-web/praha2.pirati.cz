@@ -12,29 +12,29 @@ NULLCMD = :
 #### Start of system configuration section. ####
 
 srcdir = .
-topdir = /home/jitka/.rbenv/versions/2.5.1/include/ruby-2.5.0
+topdir = /usr/include/ruby-2.5.0
 hdrdir = $(topdir)
-arch_hdrdir = /home/jitka/.rbenv/versions/2.5.1/include/ruby-2.5.0/x86_64-linux
+arch_hdrdir = /usr/include/x86_64-linux-gnu/ruby-2.5.0
 PATH_SEPARATOR = :
 VPATH = $(srcdir):$(arch_hdrdir)/ruby:$(hdrdir)/ruby
-prefix = $(DESTDIR)/home/jitka/.rbenv/versions/2.5.1
-rubysitearchprefix = $(rubylibprefix)/$(sitearch)
-rubyarchprefix = $(rubylibprefix)/$(arch)
+prefix = $(DESTDIR)/usr
+rubysitearchprefix = $(sitearchlibdir)/$(RUBY_BASE_NAME)
+rubyarchprefix = $(archlibdir)/$(RUBY_BASE_NAME)
 rubylibprefix = $(libdir)/$(RUBY_BASE_NAME)
 exec_prefix = $(prefix)
-vendorarchhdrdir = $(vendorhdrdir)/$(sitearch)
-sitearchhdrdir = $(sitehdrdir)/$(sitearch)
-rubyarchhdrdir = $(rubyhdrdir)/$(arch)
+vendorarchhdrdir = $(sitearchincludedir)/$(RUBY_VERSION_NAME)/vendor_ruby
+sitearchhdrdir = $(sitearchincludedir)/$(RUBY_VERSION_NAME)/site_ruby
+rubyarchhdrdir = $(archincludedir)/$(RUBY_VERSION_NAME)
 vendorhdrdir = $(rubyhdrdir)/vendor_ruby
 sitehdrdir = $(rubyhdrdir)/site_ruby
 rubyhdrdir = $(includedir)/$(RUBY_VERSION_NAME)
-vendorarchdir = $(vendorlibdir)/$(sitearch)
+vendorarchdir = $(rubysitearchprefix)/vendor_ruby/$(ruby_version)
 vendorlibdir = $(vendordir)/$(ruby_version)
 vendordir = $(rubylibprefix)/vendor_ruby
-sitearchdir = $(DESTDIR)./.gem.20180826-21451-av68mh
-sitelibdir = $(DESTDIR)./.gem.20180826-21451-av68mh
-sitedir = $(rubylibprefix)/site_ruby
-rubyarchdir = $(rubylibdir)/$(arch)
+sitearchdir = $(DESTDIR)./.gem.20181218-3775-106rus0
+sitelibdir = $(DESTDIR)./.gem.20181218-3775-106rus0
+sitedir = $(DESTDIR)/usr/local/lib/site_ruby
+rubyarchdir = $(rubyarchprefix)/$(ruby_version)
 rubylibdir = $(rubylibprefix)/$(ruby_version)
 sitearchincludedir = $(includedir)/$(sitearch)
 archincludedir = $(includedir)/$(arch)
@@ -52,9 +52,10 @@ infodir = $(datarootdir)/info
 docdir = $(datarootdir)/doc/$(PACKAGE)
 oldincludedir = $(DESTDIR)/usr/include
 includedir = $(prefix)/include
-localstatedir = $(prefix)/var
+runstatedir = $(DESTDIR)/var/run
+localstatedir = $(DESTDIR)/var
 sharedstatedir = $(prefix)/com
-sysconfdir = $(prefix)/etc
+sysconfdir = $(DESTDIR)/etc
 datadir = $(datarootdir)
 datarootdir = $(prefix)/share
 libexecdir = $(exec_prefix)/libexec
@@ -65,10 +66,10 @@ archdir = $(rubyarchdir)
 
 CC = gcc
 CXX = g++
-LIBRUBY = $(LIBRUBY_A)
+LIBRUBY = $(LIBRUBY_SO)
 LIBRUBY_A = lib$(RUBY_SO_NAME)-static.a
-LIBRUBYARG_SHARED = -Wl,-rpath,$(libdir) -L$(libdir) 
-LIBRUBYARG_STATIC = -Wl,-rpath,$(libdir) -L$(libdir) -l$(RUBY_SO_NAME)-static
+LIBRUBYARG_SHARED = -l$(RUBY_SO_NAME)
+LIBRUBYARG_STATIC = -l$(RUBY_SO_NAME)-static
 empty =
 OUTFLAG = -o $(empty)
 COUTFLAG = -o $(empty)
@@ -81,13 +82,13 @@ optflags = -O3
 debugflags = -ggdb3
 warnflags = -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wno-tautological-compare -Wno-parentheses-equality -Wno-constant-logical-operand -Wno-self-assign -Wunused-variable -Wimplicit-int -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wimplicit-function-declaration -Wdeprecated-declarations -Wmisleading-indentation -Wno-packed-bitfield-compat -Wsuggest-attribute=noreturn -Wsuggest-attribute=format -Wimplicit-fallthrough=0 -Wduplicated-cond -Wrestrict
 CCDLFLAGS = -fPIC
-CFLAGS   = $(CCDLFLAGS) $(cflags)  -g -DXP_UNIX -O3 -Wall -Wcast-qual -Wwrite-strings -Wextra -Wmissing-noreturn -Winline -DNOKOGIRI_USE_PACKAGED_LIBRARIES $(ARCH_FLAG)
+CFLAGS   = $(CCDLFLAGS) -g -O2 -fdebug-prefix-map=/build/ruby2.5-VnpVLW/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC  -g -DXP_UNIX -Wall -Wcast-qual -Wwrite-strings -Wextra -Wmissing-noreturn -Winline -DNOKOGIRI_USE_PACKAGED_LIBRARIES $(ARCH_FLAG)
 INCFLAGS = -I. -I$(arch_hdrdir) -I$(hdrdir)/ruby/backward -I$(hdrdir) -I$(srcdir)
 DEFS     = 
-CPPFLAGS = -DHAVE_XMLPARSEDOC -DHAVE_XSLTPARSESTYLESHEETDOC -DHAVE_EXSLTFUNCREGISTER -DHAVE_XMLHASFEATURE -DHAVE_XMLFIRSTELEMENTCHILD -DHAVE_XMLRELAXNGSETPARSERSTRUCTUREDERRORS -DHAVE_XMLRELAXNGSETPARSERSTRUCTUREDERRORS -DHAVE_XMLRELAXNGSETVALIDSTRUCTUREDERRORS -DHAVE_XMLSCHEMASETVALIDSTRUCTUREDERRORS -DHAVE_XMLSCHEMASETPARSERSTRUCTUREDERRORS -I/home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32/include -I/home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/include/libxml2 -I/home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/include/libxml2 -I/home/jitka/.rbenv/versions/2.5.1/include  $(DEFS) $(cppflags) "-DNOKOGIRI_LIBXML2_PATH=\"/home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8\"" "-DNOKOGIRI_LIBXML2_PATCHES=\"0001-Revert-Do-not-URI-escape-in-server-side-includes.patch\"" "-DNOKOGIRI_LIBXSLT_PATH=\"/home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32\"" "-DNOKOGIRI_LIBXSLT_PATCHES=\"\""
-CXXFLAGS = $(CCDLFLAGS) $(cxxflags) $(ARCH_FLAG)
-ldflags  = -L. -L/home/jitka/.rbenv/versions/2.5.1/lib  -fstack-protector -rdynamic -Wl,-export-dynamic
-dldflags = -L/home/jitka/.rbenv/versions/2.5.1/lib  -Wl,--compress-debug-sections=zlib 
+CPPFLAGS = -DHAVE_XMLPARSEDOC -DHAVE_XSLTPARSESTYLESHEETDOC -DHAVE_EXSLTFUNCREGISTER -DHAVE_XMLHASFEATURE -DHAVE_XMLFIRSTELEMENTCHILD -DHAVE_XMLRELAXNGSETPARSERSTRUCTUREDERRORS -DHAVE_XMLRELAXNGSETPARSERSTRUCTUREDERRORS -DHAVE_XMLRELAXNGSETVALIDSTRUCTUREDERRORS -DHAVE_XMLSCHEMASETVALIDSTRUCTUREDERRORS -DHAVE_XMLSCHEMASETPARSERSTRUCTUREDERRORS -I/home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32/include -I/home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/include/libxml2 -I/home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/include/libxml2 -Wdate-time -D_FORTIFY_SOURCE=2 $(DEFS) $(cppflags) "-DNOKOGIRI_LIBXML2_PATH=\"/home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8\"" "-DNOKOGIRI_LIBXML2_PATCHES=\"0001-Revert-Do-not-URI-escape-in-server-side-includes.patch\"" "-DNOKOGIRI_LIBXSLT_PATH=\"/home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32\"" "-DNOKOGIRI_LIBXSLT_PATCHES=\"\""
+CXXFLAGS = $(CCDLFLAGS) -g -O2 -fdebug-prefix-map=/build/ruby2.5-VnpVLW/ruby2.5-2.5.1=. -fstack-protector-strong -Wformat -Werror=format-security $(ARCH_FLAG)
+ldflags  = -L. -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -fstack-protector -rdynamic -Wl,-export-dynamic
+dldflags = -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -Wl,--compress-debug-sections=zlib 
 ARCH_FLAG = 
 DLDFLAGS = $(ldflags) $(dldflags) $(ARCH_FLAG)
 LDSHARED = $(CC) -shared
@@ -95,24 +96,24 @@ LDSHAREDXX = $(CXX) -shared
 AR = ar
 EXEEXT = 
 
-RUBY_INSTALL_NAME = $(RUBY_BASE_NAME)
-RUBY_SO_NAME = ruby
+RUBY_INSTALL_NAME = $(RUBY_BASE_NAME)2.5
+RUBY_SO_NAME = ruby-2.5
 RUBYW_INSTALL_NAME = 
 RUBY_VERSION_NAME = $(RUBY_BASE_NAME)-$(ruby_version)
 RUBYW_BASE_NAME = rubyw
 RUBY_BASE_NAME = ruby
 
-arch = x86_64-linux
+arch = x86_64-linux-gnu
 sitearch = $(arch)
 ruby_version = 2.5.0
-ruby = $(bindir)/$(RUBY_BASE_NAME)
+ruby = $(bindir)/$(RUBY_BASE_NAME)2.5
 RUBY = $(ruby)
 ruby_headers = $(hdrdir)/ruby.h $(hdrdir)/ruby/backward.h $(hdrdir)/ruby/ruby.h $(hdrdir)/ruby/defines.h $(hdrdir)/ruby/missing.h $(hdrdir)/ruby/intern.h $(hdrdir)/ruby/st.h $(hdrdir)/ruby/subst.h $(arch_hdrdir)/ruby/config.h
 
 RM = rm -f
 RM_RF = $(RUBY) -run -e rm -- -rf
 RMDIRS = rmdir --ignore-fail-on-non-empty -p
-MAKEDIRS = /usr/bin/mkdir -p
+MAKEDIRS = /bin/mkdir -p
 INSTALL = /usr/bin/install -c
 INSTALL_PROG = $(INSTALL) -m 0755
 INSTALL_DATA = $(INSTALL) -m 644
@@ -122,8 +123,8 @@ TOUCH = exit >
 #### End of system configuration section. ####
 
 preload = 
-libpath = . $(libdir) /home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/lib /home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32/lib
-LIBPATH =  -L. -L$(libdir) -Wl,-rpath,$(libdir) -L/home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/lib -Wl,-rpath,/home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/lib -L/home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32/lib -Wl,-rpath,/home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32/lib
+libpath = . $(archlibdir) /home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/lib /home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32/lib
+LIBPATH =  -L. -L$(archlibdir) -L/home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/lib -L/home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32/lib
 DEFFILE = 
 
 CLEANFILES = mkmf.log
@@ -134,11 +135,11 @@ extout =
 extout_prefix = 
 target_prefix = /nokogiri
 LOCAL_LIBS = 
-LIBS =  /home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32/lib/libexslt.a -lm -ldl -lz /home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/lib/libxml2.a /home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32/lib/libxslt.a -ldl -lm -lz /home/jitka/git/example.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/lib/libxml2.a -lpthread -ldl -lcrypt -lm   -lc 
+LIBS = $(LIBRUBYARG_SHARED) /home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32/lib/libexslt.a -lm -ldl -lz /home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/lib/libxml2.a /home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxslt/1.1.32/lib/libxslt.a -ldl -lm -lz /home/aktron/web/praha2.pirati.cz/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/ports/x86_64-pc-linux-gnu/libxml2/2.9.8/lib/libxml2.a -lpthread -lgmp -ldl -lcrypt -lm   -lc 
 ORIG_SRCS = html_document.c html_element_description.c html_entity_lookup.c html_sax_parser_context.c html_sax_push_parser.c nokogiri.c xml_attr.c xml_attribute_decl.c xml_cdata.c xml_comment.c xml_document.c xml_document_fragment.c xml_dtd.c xml_element_content.c xml_element_decl.c xml_encoding_handler.c xml_entity_decl.c xml_entity_reference.c xml_io.c xml_libxml2_hacks.c xml_namespace.c xml_node.c xml_node_set.c xml_processing_instruction.c xml_reader.c xml_relax_ng.c xml_sax_parser.c xml_sax_parser_context.c xml_sax_push_parser.c xml_schema.c xml_syntax_error.c xml_text.c xml_xpath_context.c xslt_stylesheet.c
 SRCS = $(ORIG_SRCS) 
 OBJS = html_document.o html_element_description.o html_entity_lookup.o html_sax_parser_context.o html_sax_push_parser.o nokogiri.o xml_attr.o xml_attribute_decl.o xml_cdata.o xml_comment.o xml_document.o xml_document_fragment.o xml_dtd.o xml_element_content.o xml_element_decl.o xml_encoding_handler.o xml_entity_decl.o xml_entity_reference.o xml_io.o xml_libxml2_hacks.o xml_namespace.o xml_node.o xml_node_set.o xml_processing_instruction.o xml_reader.o xml_relax_ng.o xml_sax_parser.o xml_sax_parser_context.o xml_sax_push_parser.o xml_schema.o xml_syntax_error.o xml_text.o xml_xpath_context.o xslt_stylesheet.o
-HDRS = $(srcdir)/xml_attr.h $(srcdir)/xml_comment.h $(srcdir)/xml_sax_parser_context.h $(srcdir)/xml_document.h $(srcdir)/xml_sax_push_parser.h $(srcdir)/xslt_stylesheet.h $(srcdir)/xml_node_set.h $(srcdir)/xml_entity_reference.h $(srcdir)/xml_text.h $(srcdir)/xml_node.h $(srcdir)/xml_libxml2_hacks.h $(srcdir)/xml_cdata.h $(srcdir)/xml_sax_parser.h $(srcdir)/xml_entity_decl.h $(srcdir)/xml_element_decl.h $(srcdir)/xml_processing_instruction.h $(srcdir)/xml_document_fragment.h $(srcdir)/xml_reader.h $(srcdir)/xml_io.h $(srcdir)/xml_namespace.h $(srcdir)/xml_relax_ng.h $(srcdir)/html_document.h $(srcdir)/nokogiri.h $(srcdir)/html_sax_push_parser.h $(srcdir)/xml_attribute_decl.h $(srcdir)/xml_schema.h $(srcdir)/html_sax_parser_context.h $(srcdir)/xml_syntax_error.h $(srcdir)/xml_xpath_context.h $(srcdir)/xml_dtd.h $(srcdir)/html_entity_lookup.h $(srcdir)/xml_encoding_handler.h $(srcdir)/xml_element_content.h $(srcdir)/html_element_description.h
+HDRS = $(srcdir)/xml_libxml2_hacks.h $(srcdir)/xml_sax_parser.h $(srcdir)/xml_syntax_error.h $(srcdir)/xml_entity_decl.h $(srcdir)/xml_text.h $(srcdir)/xml_sax_parser_context.h $(srcdir)/html_document.h $(srcdir)/nokogiri.h $(srcdir)/xslt_stylesheet.h $(srcdir)/html_element_description.h $(srcdir)/xml_xpath_context.h $(srcdir)/xml_node.h $(srcdir)/xml_io.h $(srcdir)/xml_schema.h $(srcdir)/xml_attribute_decl.h $(srcdir)/xml_relax_ng.h $(srcdir)/xml_node_set.h $(srcdir)/xml_document.h $(srcdir)/xml_processing_instruction.h $(srcdir)/xml_element_content.h $(srcdir)/html_sax_push_parser.h $(srcdir)/xml_element_decl.h $(srcdir)/xml_comment.h $(srcdir)/xml_reader.h $(srcdir)/xml_sax_push_parser.h $(srcdir)/xml_namespace.h $(srcdir)/xml_document_fragment.h $(srcdir)/html_sax_parser_context.h $(srcdir)/xml_encoding_handler.h $(srcdir)/xml_attr.h $(srcdir)/xml_dtd.h $(srcdir)/xml_entity_reference.h $(srcdir)/html_entity_lookup.h $(srcdir)/xml_cdata.h
 LOCAL_HDRS = 
 TARGET = nokogiri
 TARGET_NAME = nokogiri
