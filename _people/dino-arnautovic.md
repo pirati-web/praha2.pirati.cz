@@ -8,7 +8,7 @@ category:
   - predsednictvo
   - zastupitel
 ordpms: 4
-ordzk: 5
+ordz: 5
 description: zastupitel MČ Praha 2
 img: people/dino-arnautovic.jpg # zakomentuj radek dokud není fotka
 mail:
