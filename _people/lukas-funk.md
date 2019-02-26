@@ -7,8 +7,9 @@ titles:
 category:
   - clenove
   - zastupitel
-img: people/lukas-funk.jpg # zakomentuj radek dokud není fotka
 ordclenove: 6
+ordz: 6
+img: people/lukas-funk.jpg # zakomentuj radek dokud není fotka
 description: zastupitel MČ Praha 2, archeolog, numismatik
 mail:
   - lukas.funk@pirati.cz
