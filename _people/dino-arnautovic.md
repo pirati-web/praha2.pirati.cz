@@ -8,7 +8,7 @@ category:
   - predsednictvo
 
 ordpms: 3
-description: student práv
+description: zastupitel MČ Praha 2
 img: people/dino-arnautovic.jpg # zakomentuj radek dokud není fotka
 mail:
   - dino.arnautovic@pirati.cz
