@@ -6,8 +6,9 @@ titles:
   after: 
 category:
   - priznivci
+  - zastupitel
 ordclenove: 3
-description: vydavatel
+description: zastupitel MČ Praha 2, vydavatel
 img: people/robert-veverka.jpg # zakomentuj radek dokud není fotka
 mail:
   - robert@legalizace.cz
