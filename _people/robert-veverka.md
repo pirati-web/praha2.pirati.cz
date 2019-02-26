@@ -7,7 +7,7 @@ titles:
 category:
   - priznivci
   - zastupitel
-ordclenove: 3
+ordz: 3
 description: zastupitel MČ Praha 2, vydavatel
 img: people/robert-veverka.jpg # zakomentuj radek dokud není fotka
 mail:
