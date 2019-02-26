@@ -5,7 +5,7 @@ titles:
   before: Mgr.
   after: 
 category:
-  - predsednictvo
+  - clenove
 
 img: people/miroslav-kodada.jpg # zakomentuj radek dokud není fotka
 ordpms: 2
