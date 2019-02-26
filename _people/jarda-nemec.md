@@ -8,7 +8,7 @@ category:
   - clenove
   - zastupitel
   - kontaktni_osoba
-ordclenove: 1
+ordz: 1
 description: zastupitel MČ Praha 2, předseda klubu zastupitelů Pirátů MČ Praha 2, člen Výboru pro kulturu, výstavnictví, cestovní ruch a zahraniční vztahy ZHMP
 img: people/jaroslav-nemec.jpg # zakomentuj radek dokud není fotka
 mail:
