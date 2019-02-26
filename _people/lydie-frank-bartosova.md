@@ -8,6 +8,7 @@ category:
   - predsednictvo
   - zastupitel
 ordpms: 1
+ordz: 4
 description: zastupitelka MČ Praha 2, knihovnice
 img: people/lydie-bartosova.jpg # zakomentuj radek dokud není fotka
 mail:
