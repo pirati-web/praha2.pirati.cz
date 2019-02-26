@@ -7,7 +7,7 @@ titles:
 category:
   - clenove
 ordclenove: 2
-description: manažerka
+description: zastupitelka MČ Praha 2, místopředsedkyně klubu zastupitelů Pirátů MČ Praha 2, místopředsedkyně KS Praha
 img: people/magdalena-valdmanova.jpg # zakomentuj radek dokud není fotka
 mail:
   - magdalena.valdmanova@pirati.cz
