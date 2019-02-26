@@ -6,9 +6,10 @@ titles:
   after: MBA
 category:
   - clenove
+  - zastupitel
 img: people/martin-altschmied.jpg # zakomentuj radek dokud není fotka
 ordclenove: 7
-description: business analytik
+description: zastupitel MČ Praha 2, business analytik
 
 mail:
   - martin.altschmied@pirati.cz
