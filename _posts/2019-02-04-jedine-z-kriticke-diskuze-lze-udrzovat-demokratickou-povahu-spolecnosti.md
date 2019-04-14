@@ -6,7 +6,7 @@ tags:
 layout: post
 title: Jedině z kritické diskuse lze udržovat demokratickou povahu společnosti  
 author: Jaroslav Němec
-authorId:  # uid nekoho z _people (nepoviné)
+authorId:  jaroslav.nemec
 image: posts/noviny-prahy2-unor2019.jpg
 ---
 
