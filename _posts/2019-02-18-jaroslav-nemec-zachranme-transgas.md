@@ -25,4 +25,4 @@ image: posts/jardanemec_title.jpg
 
 Celý rozhovor na [flowee.cz](https://www.flowee.cz/floweecity/praha/5916-jaroslav-nemec-zachranme-transgas-dum-pro-dva-giganticke-pocitace)
 
-![Pracovní skupina Nádraží Vyšehrad](21-12-2018_foto-dana-gregorova_o.jpg "Pracovní skupina Nádraží Vyšehrad. Jaroslav Němec uprostřed vzadu, v popředí vlevo Adam Scheinherr, náměstek primátora pro oblast dopravy")
+![Pracovní skupina Nádraží Vyšehrad](/assets/img/posts/21-12-2018_foto-dana-gregorova_o.jpg "Pracovní skupina Nádraží Vyšehrad. Jaroslav Němec uprostřed vzadu, v popředí vlevo Adam Scheinherr, náměstek primátora pro oblast dopravy")
