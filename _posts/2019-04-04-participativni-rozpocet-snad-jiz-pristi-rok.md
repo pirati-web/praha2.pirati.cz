@@ -6,7 +6,7 @@ tags:
 layout: post
 title: Participativní rozpočet snad již v příštím roce
 author: Martin Altschmied
-authorId:  # uid nekoho z _people (nepoviné)
+authorId:  martin.altschmied
 image: posts/noviny-prahy2-duben2019.jpg
 ---
 
@@ -14,4 +14,4 @@ Vážíme si práce všech, kteří se na tvorbě rozpočtu podíleli, nicméně
 
 Martin Altschmied
 
-Noviny Prahy 2, duben 2019 > http://praha2.cz/file/XVt1/04npd-d.pdf
+[Noviny Prahy 2, duben 2019](http://praha2.cz/file/XVt1/04npd-d.pdf)
