@@ -15,4 +15,4 @@ Po padesáti letech by se možná mohlo zdát, že odkaz činu Jana Palacha je u
 Jaroslav Němec
 
 
-Noviny Prahy 2, únor 2019 > http://praha2.cz/file/uot1/02npd-e.pdf
+[Noviny Prahy 2, únor 2019](http://praha2.cz/file/uot1/02npd-e.pdf)
