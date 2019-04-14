@@ -6,7 +6,7 @@ tags:
 layout: post
 title: Piráti usilují o záchranu nádraží Vyšehrad 
 author: Magdalena Valdmanová
-authorId:  # uid nekoho z _people (nepoviné)
+authorId:  magdalena.valdmanova
 image: posts/noviny-prahy2-brezen2019.jpg
 ---
 
@@ -15,4 +15,4 @@ Programové prohlášení bych očekávala dříve, než čtvrt roku po sestaven
 Magdalena Valdmanová
 
 
-Noviny Prahy 2 - březen > http://praha2.cz/file/Utt1/03npd-d.pdf 
+[Noviny Prahy 2 - březen](http://praha2.cz/file/Utt1/03npd-d.pdf)
