@@ -1,16 +1,17 @@
 ---
 date: 2019-02-18
 category: blog
-tags: Transgas
+tags: 
     
 layout: post
-title: Jaroslav Němec: Zachraňme Transgas, dům pro dva gigantické počítače
+title: Jaroslav Němec – Zachraňme Transgas, dům pro dva gigantické počítače
 author: Zdeněk Strnad
 authorId:  # uid nekoho z _people (nepoviné)
 image: posts/jardanemec_title.jpg
 ---
 
-Jaroslav Němec: Zachraňme Transgas, dům pro dva gigantické počítače (rozhovor vedl Zdeněk Strnad) / [flowee.cz, 18. 2. 2019](https://www.flowee.cz/floweecity/praha/5916-jaroslav-nemec-zachranme-transgas-dum-pro-dva-giganticke-pocitace)
+<i>Jaroslav Němec: Zachraňme Transgas, dům pro dva gigantické počítače</i> (rozhovor vedl Zdeněk Strnad) / [flowee.cz, 18. 2. 2019](https://www.flowee.cz/floweecity/praha/5916-jaroslav-nemec-zachranme-transgas-dum-pro-dva-giganticke-pocitace)
+
 
 > ### Transgas a nádraží Vyšehrad? #tochci! říká v rozhovoru pro [Flowee Jaroslav Němec](https://www.flowee.cz/floweecity/praha/5916-jaroslav-nemec-zachranme-transgas-dum-pro-dva-giganticke-pocitace), zastupitel městské části Praha 2 za Pirátskou stranu. A dodává: Dvojka má možnost být ještě lepším místem k životu
 
