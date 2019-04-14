@@ -5,7 +5,7 @@ tags: Nádraží Vyšehrad
     
 layout: post
 title: Vyjádření Jaroslava Němce, zastupitele Prahy 2 k nádraží Vyšehrad 
-author: TN.cz
+author:
 authorId:  # uid nekoho z _people (nepoviné)
 image: posts/2019-03-31-ostuda-prahy.jpg
 ---
