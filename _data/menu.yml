@@ -16,9 +16,9 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+  - link: /zastupitelsky-klub/
+    name: Zastupitelský klub
+    match: zastupitelsky-klub
   - link: /kontakt/
     name: Kontakt
     match: kontakt
