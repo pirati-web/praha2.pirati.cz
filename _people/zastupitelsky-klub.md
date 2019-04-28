@@ -3,12 +3,27 @@ layout: members
 title: Zastupitelský klub Pirátů MČ Praha 2
 description: Chceme moderní městský obvod.
 keywords: lidé, zastupitelé, zastupitelky, členové, piráti, pirátky, příznivci
+viewMode: grouped # or alltogether
+groups:
+  - name: Zastupitelstvo MČ Praha 2
+    category: zastupitel
+sort: ordz
 ---
 
 <h2>Program pro Prahu 2 (Volby 2018)</h2>
 
 Praha 2 je krásné místo k městskému životu. Chceme podporovat dobré sousedství pro všechny obyvatele bez rozdílů sociálního či jiného postavení. Všichni jsme sousedé, všichni jsme obyvatelé naší čtvrti, kterou bu- deme spravovat ku prospěchu všech s péčí řádného hospodáře. Chceme moderní městský obvod. [Číst více >>>](https://praha2.pirati.cz/komunalni-volby/program/praha2018/2-program_praha2/)
 
+{% include homepage/banner.html 
+   link='/lide/'
+   title='Zastupitelé Prahy 2 za Piráty'
+   default='banner_povolebni2018.jpg'
+   breakpoint=640
+%}
+
+<h2>Zastupitelé Prahy 2 za Piráty</h2>
+
+[Jaroslav Němec](/lide/jaroslav-nemec/) (předseda zastupitelského klubu), [Magdalena Valdmanová](/lide/magdalena-valdmanova/) (místopředsedkyně zastupitelského klubu), [Robert Veverka](/lide/robert-veverka/), [Lydie Franka Bartošová](/lide/lydie-frank-bartosova/), [Dino Arnautovič](/lide/dino-arnautovic/), [Lukáš Funk](/lide/lukas-funk/), [Martin Altschmied](/lide/martin-altschmied/)
 
 <h2>Odměny zastupitelů</h2>
 
