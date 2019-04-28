@@ -7,7 +7,7 @@ viewMode: grouped # or alltogether
 groups:
   - name: Zastupitelstvo MČ Praha 2
     category: zastupitel
-sort: ordz
+    sort: ordz
 ---
 
 <h2>Program pro Prahu 2 (Volby 2018)</h2>
