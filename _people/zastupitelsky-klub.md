@@ -277,27 +277,14 @@ Praha 2 je krásné místo k městskému životu. Chceme podporovat dobre�
 <h2>Odměny zastupitelů</h2>
 
 <table><tr>
-  <td> </td> <td> 
-  
-  [Jaroslav Němec](/lide/jaroslav-nemec/)
-  </td><td>
-  
-  [Magdalena Valdmanová](/lide/magdalena-valdmanova/)
-  </td><td>
-  
-  [Robert Veverka](/lide/robert-veverka/)
-  </td><td>
-  
-  [Lydie Franka Bartošová](/lide/lydie-frank-bartosova/)
-  </td><td>
-  
-  [Dino Arnautovič](/lide/dino-arnautovic/)
-  </td><td>
-  
-  [Lukáš Funk](/lide/lukas-funk/)
-  </td><td>
-  
-  [Martin Altschmied](/lide/martin-altschmied/)
+  <td> 
+  </td><td><b>Jaroslav Němec</b>
+  </td><td><b>Magdalena Valdmanová</b>
+  </td><td><b>Robert Veverka</b>
+  </td><td><b>Lydie Franka Bartošová</b>
+  </td><td><b>Dino Arnautovič</b>
+  </td><td><b>Lukáš Funk</b>
+  </td><td><b>Martin Altschmied</b>
   </td></tr>
      <tr><td>12/2018</td><td>1.496 Kč</td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td>
 </tr><tr><td>01/2019</td><td>9.218 Kč</td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td>
