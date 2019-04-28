@@ -1,6 +1,8 @@
 --- 
 layout: post
 title: Zastupitelský klub Pirátů MČ Praha 2
+description: Chceme moderní městský obvod.
+keywords: lidé, zastupitelé, zastupitelky, členové, piráti, pirátky, příznivci
 ---
 
 <h2>Program pro Prahu 2 (Volby 2018)</h2>
@@ -12,22 +14,17 @@ Praha 2 je krásné místo k městskému životu. Chceme podporovat dobre�
     <div id="zastupitel" class="c-simple-accordion-content" data-tab-content="" role="tabpanel" aria-labelledby="zastupitel-label" aria-hidden="false" style="display: block;">
         
 <div class="c-member-list__row row u-uniform-size-row">
-  
-    
     <div class="large-4 medium-6 small-collapse columns c-member-list__item ">
-      
-
 <div class="c-profile-badge  ">
     <div class="c-profile-badge__avatar"><a class="c-profile-badge__anchor" href="/lide/jaroslav-nemec/"><img src="/assets/ae5c78-f42eabfac55396f2fbe9e9194f0d919d6abe1c6b4f99ec2ef0d34ad3c021c3e0.jpg" alt="
     Jaroslav Němec
 " class="c-profile-badge__image c-profile-badge__image--round c-profile-badge__image--smaller"></a>
     </div>
-
     <div class="c-profile-badge__body">
         <h2 class="c-profile-badge__headline"><a href="/lide/jaroslav-nemec/" class="t-h5-super">
     Jaroslav Němec
 </a></h2>
-        
+       
         <p class="c-profile-badge__desc">
             
                 zastupitel MČ Praha 2, předseda klubu zastupitelů Pirátů MČ Praha 2, člen Výboru pro kulturu, výstavnictví, cestovní ruch a zahraniční vztahy ZHMP
