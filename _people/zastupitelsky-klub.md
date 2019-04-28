@@ -1,3 +1,8 @@
+--- 
+layout: post
+title: Zastupitelský klub Pirátů MČ Praha 2
+---
+
 <h2>Program pro Prahu 2 (Volby 2018)</h2>
 
 Praha 2 je krásné místo k městskému životu. Chceme podporovat dobré sousedství pro všechny obyvatele bez rozdílů sociálního či jiného postavení. Všichni jsme sousedé, všichni jsme obyvatelé naší čtvrti, kterou bu- deme spravovat ku prospěchu všech s péčí řádného hospodáře. Chceme moderní městský obvod. [Číst více >>>](https://praha2.pirati.cz/komunalni-volby/program/praha2018/2-program_praha2/)
@@ -272,39 +277,6 @@ Praha 2 je krásné místo k městskému životu. Chceme podporovat dobre�
     </div>
   </li>
 
-<h2>Piráti ve Výborech a Komisích MČ Praha 2</h2>
-
-<b>Kontrolní výbor ZMČ Praha 2</b> – [Robert Veverka](/lide/robert-veverka/) (předseda komise), Jindřich Lauschmann
-
-<b>Finanční výbor ZMČ Praha 2</b> – [Martin Altschmied](/lide/martin-altschmied/) a [Lydie Franka Bartošová](/lide/lydie-frank-bartosova/)
-
-<b>Finanční výbor ZMČ Praha 2</b> – [Magdalena Valdmanová](/lide/magdalena-valdmanova/) a [Radek Zykan](/lide/radek-zykan/)
-
-<b>Bezpečnostní komise</b> – [Robert Veverka](/lide/robert-veverka/) a Martin Strnad
-
-<b>Bytová komise</b> – [Lukáš Funk](/lide/lukas-funk/) a Viliam Jäger
-
-<b>Dopravní komise</b> – [Robert Rameš](/lide/robert-rames/) a [Miroslav Kodada](/lide/miroslav-kodada/)
-
-<b>Finanční komise</b> – [Lukáš Funk](/lide/lukas-funk/) a [Martin Altschmied](/lide/martin-altschmied/)
-
-<b>Komise pro informační služby a chytré město</b> – [Martin Altschmied](/lide/martin-altschmied/) a [Dino Arnautovič](/lide/dino-arnautovic/)
-
-<b>Kulturní komise</b> – [Lukáš Funk](/lide/lukas-funk/) a [Filip Smoljak](/lide/filip-smoljak/)
-
-<b>Majetková komise</b> – [Dino Arnautovič](/lide/dino-arnautovic/) a [Jaroslav Němec](/lide/jaroslav-nemec/)
-
-<b>Redakční rada Novin Prahy 2</b> – [Jaroslav Němec](/lide/jaroslav-nemec/) a Tobiáš Pexidr 
-
-<b>Komise rozvoje</b> – [Jaroslav Němec](/lide/jaroslav-nemec/) a [Radek Zykan](/lide/radek-zykan/)
-
-<b>Sociální komise </b> – [Magdalena Valdmanová](/lide/magdalena-valdmanova/) a [Lydie Franka Bartošová](/lide/lydie-frank-bartosova/)
-
-<b>Komise výchovy a vzdělávání</b> – [Lydie Franka Bartošová](/lide/lydie-frank-bartosova/) a [Robert Veverka](/lide/robert-veverka/)
-
-<b>Komise životního prostředí</b> – [Magdalena Valdmanová](/lide/magdalena-valdmanova/) a Jakub Klesal
-
-
 <h2>Odměny zastupitelů</h2>
 
 <table><tr>
@@ -338,4 +310,36 @@ Praha 2 je krásné místo k městskému životu. Chceme podporovat dobre�
 </tr>
 </table>
 
----
+<hr />
+<h2>Piráti ve Výborech a Komisích MČ Praha 2</h2>
+
+<b>Kontrolní výbor ZMČ Praha 2</b> – [Robert Veverka](/lide/robert-veverka/) (předseda komise), Jindřich Lauschmann
+
+<b>Finanční výbor ZMČ Praha 2</b> – [Martin Altschmied](/lide/martin-altschmied/) a [Lydie Franka Bartošová](/lide/lydie-frank-bartosova/)
+
+<b>Majetkový výbor ZMČ Praha 2</b> – [Magdalena Valdmanová](/lide/magdalena-valdmanova/) a [Radek Zykan](/lide/radek-zykan/)
+
+<b>Bezpečnostní komise</b> – [Robert Veverka](/lide/robert-veverka/) a Martin Strnad
+
+<b>Bytová komise</b> – [Lukáš Funk](/lide/lukas-funk/) a Viliam Jäger
+
+<b>Dopravní komise</b> – [Robert Rameš](/lide/robert-rames/) a [Miroslav Kodada](/lide/miroslav-kodada/)
+
+<b>Finanční komise</b> – [Lukáš Funk](/lide/lukas-funk/) a [Martin Altschmied](/lide/martin-altschmied/)
+
+<b>Komise pro informační služby a chytré město</b> – [Martin Altschmied](/lide/martin-altschmied/) a [Dino Arnautovič](/lide/dino-arnautovic/)
+
+<b>Kulturní komise</b> – [Lukáš Funk](/lide/lukas-funk/) a [Filip Smoljak](/lide/filip-smoljak/)
+
+<b>Majetková komise</b> – [Dino Arnautovič](/lide/dino-arnautovic/) a [Jaroslav Němec](/lide/jaroslav-nemec/)
+
+<b>Redakční rada Novin Prahy 2</b> – [Jaroslav Němec](/lide/jaroslav-nemec/) a Tobiáš Pexidr 
+
+<b>Komise rozvoje</b> – [Jaroslav Němec](/lide/jaroslav-nemec/) a [Radek Zykan](/lide/radek-zykan/)
+
+<b>Sociální komise </b> – [Magdalena Valdmanová](/lide/magdalena-valdmanova/) a [Lydie Franka Bartošová](/lide/lydie-frank-bartosova/)
+
+<b>Komise výchovy a vzdělávání</b> – [Lydie Franka Bartošová](/lide/lydie-frank-bartosova/) a [Robert Veverka](/lide/robert-veverka/)
+
+<b>Komise životního prostředí</b> – [Magdalena Valdmanová](/lide/magdalena-valdmanova/) a Jakub Klesal
+
