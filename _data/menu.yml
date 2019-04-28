@@ -16,7 +16,7 @@ main:
   - link: /lide/
     name: Naši lidé
     match: lide
-  - link: /zastupitelsky-klub/
+  - link: /lide/zastupitelsky-klub
     name: Zastupitelský klub
     match: zastupitelsky-klub
   - link: /kontakt/
