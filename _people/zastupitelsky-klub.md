@@ -1,5 +1,5 @@
 --- 
-layout: members
+layout: default
 title: Zastupitelský klub Pirátů MČ Praha 2
 description: Chceme moderní městský obvod.
 keywords: lidé, zastupitelé, zastupitelky, členové, piráti, pirátky, příznivci
