@@ -46,7 +46,7 @@ Praha 2 je krásné místo k městskému životu. Chceme podporovat dobre�
 </table>
 
 <hr />
-<h2>Piráti ve Výborech a Komisích MČ Praha 2</h2>
+<h2>Zástupci Pirátů ve Výborech a Komisích MČ Praha 2</h2>
 
 
 - <b>Kontrolní výbor ZMČ Praha 2</b> – [Robert Veverka](/lide/robert-veverka/) (předseda komise), Jindřich Lauschmann
