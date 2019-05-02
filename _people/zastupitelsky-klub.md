@@ -18,6 +18,7 @@ Praha 2 je krásné místo k městskému životu. Chceme podporovat dobre�
    link='/lide/'
    title='Zastupitelé Prahy 2 za Piráty'
    default='banner_povolebni2018.jpg'
+   mobile='banner_povolebni2018.jpg'
    breakpoint=640
 %}
 
