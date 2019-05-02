@@ -5,7 +5,7 @@ description: Chceme moderní městský obvod.
 keywords: lidé, zastupitelé, zastupitelky, členové, piráti, pirátky, příznivci
 viewMode: grouped # or alltogether
 groups:
-  - name: Zastupitelstvo MČ Praha 2
+  - name: Kontaktujte zastupitele MČ Prahy 2 za Piráty
     category: zastupitel
     sort: ordz
 ---
@@ -16,13 +16,13 @@ Praha 2 je krásné místo k městskému životu. Chceme podporovat dobre�
 
 {% include homepage/banner.html 
    link='/lide/'
-   title='Zastupitelé Prahy 2 za Piráty'
+   title='Zastupitelé MČ Prahy 2 za Piráty'
    default='banner_povolebni2018.jpg'
    mobile='banner_povolebni2018.jpg'
    breakpoint=640
 %}
 
-<h2>Zastupitelé Prahy 2 za Piráty</h2>
+<h2>Zastupitelé MČ Prahy 2 za Piráty</h2>
 
 [Jaroslav Němec](/lide/jaroslav-nemec/) (předseda zastupitelského klubu), [Magdalena Valdmanová](/lide/magdalena-valdmanova/) (místopředsedkyně zastupitelského klubu), [Robert Veverka](/lide/robert-veverka/), [Lydie Franka Bartošová](/lide/lydie-frank-bartosova/), [Dino Arnautovič](/lide/dino-arnautovic/), [Lukáš Funk](/lide/lukas-funk/), [Martin Altschmied](/lide/martin-altschmied/)
 
@@ -40,9 +40,9 @@ Praha 2 je krásné místo k městskému životu. Chceme podporovat dobre�
   </td></tr>
      <tr><td>12/2018</td><td>1.496 Kč</td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td>
 </tr><tr><td>01/2019</td><td>9.218 Kč</td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td>
-</tr><tr><td>01/2019</td><td>9.230 Kč</td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td>
-</tr><tr><td>01/2019</td><td>9.391 Kč</td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td>
-</tr><tr><td>01/2019</td><td>10.810 Kč</td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td>
+</tr><tr><td>02/2019</td><td>9.230 Kč</td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td>
+</tr><tr><td>03/2019</td><td>9.391 Kč</td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td>
+</tr><tr><td>04/2019</td><td>10.810 Kč</td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td><td> - </td>
 </tr>
 </table>
 
