@@ -10,7 +10,7 @@ ordclenove: 13
 description: 
 img: people/tereza-vovesova.jpg 
 mail:
-  - tereza.vovesov@pirati.cz
+  - tereza.vovesova@pirati.cz
 profiles: 
   facebook:
 ---
