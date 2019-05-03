@@ -7,6 +7,9 @@ titles:
 category:
   - clenove
   - zastupitel
+  - fv
+  - it
+  - fk
 img: people/martin-altschmied.jpg # zakomentuj radek dokud není fotka
 ordz: 7
 description: zastupitel MČ Praha 2, business analytik
