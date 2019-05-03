@@ -9,7 +9,7 @@ category:
   - rrnp2
 img: people/tobias-pexidr.jpg # zakomentuj radek dokud není fotka
 
-description: podnikatel
+description: student
 
 mail:
   - 
