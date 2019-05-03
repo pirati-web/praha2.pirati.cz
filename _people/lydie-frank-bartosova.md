@@ -7,6 +7,9 @@ titles:
 category:
   - predsednictvo
   - zastupitel
+  - kvv
+  - sk
+  - fv
 ordpms: 1
 ordz: 4
 description: zastupitelka MČ Praha 2, předsedkyně MS Praha 2, knihovnice
