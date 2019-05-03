@@ -8,7 +8,7 @@ category:
   - priznivci
   - kzp
 img: people/jakub-klesal.jpg # zakomentuj radek dokud není fotka
-
+ordpms: 14
 description: 
 
 mail:
