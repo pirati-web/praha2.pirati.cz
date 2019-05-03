@@ -6,6 +6,8 @@ titles:
   after:
 category:
   - priznivci
+  - mv
+  - kr
 img: people/radek-zykan.jpg # zakomentuj radek dokud není fotka
 
 description: architekt, učitel na VŠ 
