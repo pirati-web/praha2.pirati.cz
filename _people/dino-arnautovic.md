@@ -7,6 +7,8 @@ titles:
 category:
   - predsednictvo
   - zastupitel
+  - mk
+  - it
 ordpms: 4
 ordz: 5
 description: zastupitel MČ Praha 2
