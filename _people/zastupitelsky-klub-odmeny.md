@@ -10,8 +10,6 @@ groups:
     sort: ordz
 ---
 
-<h2>Odměny zastupitelů</h2>
-
 <table><tr>
   <td> 
   </td><td><b>Jaroslav Němec</b>
