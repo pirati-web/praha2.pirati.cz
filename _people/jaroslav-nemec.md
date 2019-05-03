@@ -7,6 +7,9 @@ titles:
 category:
   - clenove
   - zastupitel
+  - mk
+  - kr
+  - rrnp2
   - kontaktni_osoba
 ordz: 1
 description: zastupitel MČ Praha 2, předseda klubu zastupitelů Pirátů MČ Praha 2, člen Výboru pro kulturu, výstavnictví, cestovní ruch a zahraniční vztahy ZHMP
