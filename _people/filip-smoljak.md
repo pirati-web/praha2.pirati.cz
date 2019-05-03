@@ -6,6 +6,7 @@ titles:
   after: 
 category:
   - predsednictvo
+  - kk
 ordpms: 3
 description: místopředseda MS Praha 2
 img: people/filip-smoljak.jpg 
