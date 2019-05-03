@@ -7,6 +7,9 @@ titles:
 category:
   - clenove
   - zastupitel
+  - bytk
+  - fk
+  - kk
 ordclenove: 6
 ordz: 6
 img: people/lukas-funk.jpg # zakomentuj radek dokud není fotka
