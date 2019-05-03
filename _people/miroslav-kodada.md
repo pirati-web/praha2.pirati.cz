@@ -6,6 +6,7 @@ titles:
   after: 
 category:
   - clenove
+  - dk
 
 img: people/miroslav-kodada.jpg # zakomentuj radek dokud není fotka
 ordpms: 2
