@@ -7,6 +7,9 @@ titles:
 category:
   - clenove
   - zastupitel
+  - mv
+  - sk
+  - kzp
 ordz: 2
 description: zastupitelka MČ Praha 2, místopředsedkyně klubu zastupitelů Pirátů MČ Praha 2, místopředsedkyně KS Praha
 img: people/magdalena-valdmanova.jpg # zakomentuj radek dokud není fotka
