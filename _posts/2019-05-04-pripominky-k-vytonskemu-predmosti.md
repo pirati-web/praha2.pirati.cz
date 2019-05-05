@@ -74,3 +74,7 @@ mezi Libušinou, Vnislavovou a Rašínovým nábřežím i s možností částe�
 7. drobná stavební intervence v daném bloku je naopak možná v malé proluce při ulici Na Hrobci
 
 8. Parteru v okolí celnice zachovat komorní "sevřený" charakter jen s případnými drobnými úpravami
+
+<hr />
+K tématu: [30. 9. 2018 – Nesouhlasíme se zmenšením hřiště na Hrobci](https://praha2.pirati.cz/aktuality/kdo-chce-zmensit-hriste-na-hrobci-a-proc.html)
+
