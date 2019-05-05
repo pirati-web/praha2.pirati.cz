@@ -14,7 +14,12 @@ Máte rádi letní kina? Venku je již krásně a proto jsme si pro vás připra
 
 Projekci zajišťuje: Putovní biograf.
 
-{% asset 'poster_a3_kino-5-5-2019.jpg' alt='Pirátské jarní kino ve Folimance' %}
+{% 
+
+asset 'poster_a3_kino-5-5-2019.jpg' 
+alt='Pirátské jarní kino ve Folimance' 
+
+%}
 
 Program: 
 
