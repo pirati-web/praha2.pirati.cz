@@ -14,4 +14,6 @@ Vážíme si práce všech, kteří se na tvorbě rozpočtu podíleli, nicméně
 
 Martin Altschmied
 
+{% asset 'posts/2019-04-14.jpg' alt='Martin Altschmied' %}
+
 [Noviny Prahy 2, duben 2019](http://praha2.cz/file/XVt1/04npd-d.pdf)
