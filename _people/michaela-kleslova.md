@@ -17,10 +17,8 @@ profiles:
 
 
 
-Michaela Kleslová (* 9.10.1998) je pražská koordinátorka. Původně od července 2017 pracovala jako koordinátorka pro Karlovarský kraj a zároveň tak jako dočasná sanitářka v dialyzačním středisku Fresenius Medical Care, avšak díky studiím se přesouvá do Prahy.
+Michaela Kleslová (* 9.10.1998) je členka Pirátu na Praze dvě a asistentka personálního odboru.
 
-Pomáhala, byla při ruce a okoukávala organizaci plno menších akcí v Karlových Varech a v květnu roku 2017 zorganizovala „Benefiční bazárek pro Tomáška“ s oblečením.
+Původně pochází z Karlovarského kraje, kde ve sněmovní kampani 2017 působila jako krajská koordinátorka dobrovolníků, poté ke konci studiu na gymnáziu taktéž jako pražská koordinátorka. V současnosti studuje na České zemědělské univerzitě.
 
-Prošla několika obchody, restauracemi, firmami a promo agenturami.
-
-Ráda sportuje a pravidelně se účastní štafety Mattoni 1/2 maratonu v Karlových Varech. Hraje na bicí, ale zatím v žádné kapele nehraje. V neposlední řadě ráda cestuje a poznává různé lidi a věci z jiných koutů světa.
+Mezi její záliby patří cestování a sport, zejména běh na dělší tratě. Hrála na řadu hudebních nástrojů a tak se nezbytnou součástí jejího života staly koncerty, které ráda spoluorganizuje, a velké festivaly.
