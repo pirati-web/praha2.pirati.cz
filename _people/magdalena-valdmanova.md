@@ -9,7 +9,7 @@ category:
   - zastupitel
   - mv
   - sk
-  - kzp
+  - rrnp2
 ordz: 2
 description: zastupitelka MČ Praha 2, místopředsedkyně klubu zastupitelů Pirátů MČ Praha 2, místopředsedkyně KS Praha
 img: people/magdalena-valdmanova.jpg # zakomentuj radek dokud není fotka
