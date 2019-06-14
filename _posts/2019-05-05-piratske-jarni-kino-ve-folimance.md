@@ -16,7 +16,7 @@ Projekci zajišťuje: Putovní biograf.
 
 {% 
 
-asset 'poster_a3_kino-5-5-2019.jpg' 
+asset 'posts/poster_a3_kino-5-5-2019.jpg' 
 alt='Pirátské jarní kino ve Folimance' 
 
 %}
