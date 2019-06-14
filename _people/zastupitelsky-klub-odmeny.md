@@ -21,7 +21,7 @@ groups:
   </td><td><b>Martin Altschmied</b>
   </td></tr>
      <tr><td>11/2018</td><td>0,00 Kč</td><td>	0,00 Kč</td><td>	950,00 Kč</td><td>	0,00 Kč</td><td>	0,00 Kč</td><td>	0,00 Kč</td><td>	0,00 Kč</td>
-</tr><tr><td>12/2018</td><td>	1 496,00 Kč</td><td>	1 496,00 Kč</td><td>	2 982,00 Kč</td><td>	1 496,00 Kč</td><td>	1 496,00 Kč</td><td>	1 496,00 Kč</td><td>	1 496,00 Kč</td><td>
+</tr><tr><td>12/2018</td><td>	1 496,00 Kč</td><td>	1 496,00 Kč</td><td>	2 982,00 Kč</td><td>	1 496,00 Kč</td><td>	1 496,00 Kč</td><td>	1 496,00 Kč</td><td>	1 496,00 Kč</td>
 </tr><tr><td>01/2019</td><td>	9 218,00 Kč</td><td>	6 997,00 Kč</td><td>	9 009,00 Kč</td><td>	6 997,00 Kč</td><td>	5 560,00 Kč</td><td>	</td><td>	6 997,00 Kč</td>
 </tr><tr><td>02/2019</td><td>	9 230,00 Kč</td><td>	9 230,00 Kč</td><td>	9 853,00 Kč</td><td>	9 230,00 Kč</td><td>	6 158,00 Kč</td><td>	9 230,00 Kč</td><td>	9 230,00 Kč</td>
 </tr><tr><td>03/2019</td><td>	9 391,00 Kč</td><td>	9 230,00 Kč</td><td>	9 853,00 Kč</td><td>	9 230,00 Kč</td><td>	6 158,00 Kč</td><td>	9 230,00 Kč</td><td>	9 230,00 Kč</td>
