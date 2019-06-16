@@ -13,7 +13,7 @@ img: people/radek-zykan.jpg # zakomentuj radek dokud není fotka
 description: architekt, učitel na VŠ 
 
 mail:
-  - radek.zykan@pirati.cz
+  - radek.zykan@gmail.com
 profiles:
  
 ---
