@@ -5,8 +5,8 @@ tags:
     
 layout: post
 title: Vnitrobloky - skryté klenoty
-author:
-authorId:  # uid nekoho z _people (nepoviné)
+author: Radek Oborný
+authorId:  Radek.Oborny
 image: posts/vnitrobloky.jpg
 ---
 
