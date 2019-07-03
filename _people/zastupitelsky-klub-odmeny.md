@@ -30,3 +30,5 @@ groups:
 </tr><tr><td>06/2019</td><td>	9 552,00 Kč</td><td>	9 230,00 Kč</td><td> </td><td> </td><td> 6 158,00 Kč</td><td>	9 230,00 Kč	</td><td> </td>
 </tr>
 </table>
+
+Jedná se o čistý příjem odměn dle Nařízení vlády č. 318/2017 Sb. a odměn za svatební obřady po zdanění a zaplacení zdravotního pojištění.
