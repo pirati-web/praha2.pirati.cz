@@ -10,6 +10,6 @@ groups:
     sort: ordz
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf-FUPpBFQn9iKAM_LoxoKYAUZ867vFhGXmJjP9bhTnEmMtx5XcjK4wsMNtOvTuEUJEmmZhkuC2qp9/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" scrolling="no" width="100%" height="500"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf-FUPpBFQn9iKAM_LoxoKYAUZ867vFhGXmJjP9bhTnEmMtx5XcjK4wsMNtOvTuEUJEmmZhkuC2qp9/pubhtml?widget=true&amp;headers=false" scrolling="no" width="80%" height="450"></iframe>
 
 Jedná se o čistý příjem odměn dle Nařízení vlády č. 318/2017 Sb. a odměn za svatební obřady po zdanění a zaplacení zdravotního pojištění.
