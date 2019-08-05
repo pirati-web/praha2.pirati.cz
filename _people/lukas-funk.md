@@ -20,7 +20,7 @@ profiles:
 
 ---
 
-Lukáš Funk (* 25. března 1982) je příznivcem Pirátské strany. Narodil se a žije v Praze na Vinohradech.
+Lukáš Funk (* 25. března 1982) je členem Pirátské strany, zastupitel MČ Praha 2. Narodil se a žije v Praze na Vinohradech.
 
 Po absolvování střední a vyšší odborné ekonomické školy vystudoval archeologii na filozofické fakultě Západočeské univerzity, kde v roce 2014 získal titul Ph.D. Specializuje se na archeologii moderní doby a dějiny peněžního vývoje.
 
