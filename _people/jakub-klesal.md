@@ -5,9 +5,10 @@ titles:
   before: 
   after:
 category:
-  - priznivci
+  - lenove
   - kzp
 img: people/jakub-klesal.jpg # zakomentuj radek dokud není fotka
+ordclenove: 14
 ordpms: 14
 description: 
 
