@@ -6,6 +6,7 @@ titles:
   after: 
 category:
   - clenove
+ordclenove: 14
 description: 
 img: people/hana_chalusova.jpg # zakomentuj radek dokud není fotka
 mail:
