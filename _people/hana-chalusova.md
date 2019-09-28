@@ -6,9 +6,9 @@ titles:
   after: 
 category:
   - clenove
+ordclenove: 15
 description: 
 img: people/hana_chalusova.jpg # zakomentuj radek dokud není fotka
-ordclenove: 15
 mail:
   - hana.chalusova@pirati.cz
 profiles: 
