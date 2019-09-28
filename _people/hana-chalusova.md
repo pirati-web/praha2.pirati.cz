@@ -1,5 +1,5 @@
 ---
-uid: dino.arnautovic
+uid: hana.chalusova
 name:     Hana Chalušová  	# běžně používáné jméno
 titles:
   before: 
