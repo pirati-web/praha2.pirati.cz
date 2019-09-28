@@ -10,7 +10,7 @@ category:
 img: people/jakub-klesal.jpg # zakomentuj radek dokud není fotka
 description: 
 
-mail:
+mail: jakub.klesal@pirati.cz
   - 
 profiles:
  
