@@ -5,11 +5,11 @@ titles:
   before: 
   after:
 category:
-  - lenove
+  - clenove
   - kzp
-img: people/jakub-klesal.jpg # zakomentuj radek dokud není fotka
 ordclenove: 14
 ordpms: 14
+img: people/jakub-klesal.jpg # zakomentuj radek dokud není fotka
 description: 
 
 mail:
