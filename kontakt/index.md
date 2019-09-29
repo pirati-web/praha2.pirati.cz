@@ -17,6 +17,7 @@ se koná každý třetí čtvrtek v měsíci od 18:00 na Klubovně Pirátů Prah
 
 <iframe src="https://calendar.google.com/calendar/embed?src=ql5ee73ks24kn2vhnn2ffqdvks%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+
 Chcete přístup k pirátským systémům? Registrujte se na [nalodění.](https://nalodeni.pirati.cz) 
 
 Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
