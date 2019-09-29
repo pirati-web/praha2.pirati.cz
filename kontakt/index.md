@@ -13,14 +13,17 @@ contentSize: default
 </div>
 
 Zajímá vás, co dělají Piráti v Praze 2? Napište nám na mail nebo za námi přijďte na schůzi, která
-se koná každý třetí čtvrtek v měsíci od 18:00 na Klubovně Pirátů Prahy 2 – Bělehradská 21, 120 00 Praha 2 – Vinohrady. 
+se koná každý třetí čtvrtek v měsíci od 18:00 v <b>Klubovně Pirátů Prahy 2</b> – Bělehradská 21, 120 00 Praha 2 – Vinohrady. 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=ql5ee73ks24kn2vhnn2ffqdvks%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=ql5ee73ks24kn2vhnn2ffqdvks%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
 
-Chcete přístup k pirátským systémům? Registrujte se na [nalodění.](https://nalodeni.pirati.cz) 
+<h2>Chcete přístup k pirátským systémům?</h2>
 
-Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo našemu místnímu sdružení, poradťe se s [Dinem Arnautovičem.](https://praha2.pirati.cz/lide/dino-arnautovic)
+Registrujte se na [nalodění.](https://nalodeni.pirati.cz) 
+
+<h2>Finanční dary</h2>
+
+Finanční dary můžete posílat na [dary](https://dary.pirati.cz). Pokud chcete darovat přimo našemu místnímu sdružení, poradťe se s [Dinem Arnautovičem.](https://praha2.pirati.cz/lide/dino-arnautovic)
 
 
