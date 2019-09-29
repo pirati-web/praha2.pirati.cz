@@ -2,7 +2,6 @@
 layout: contacts
 description: Pirátská strana v Praze 2 je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
-Bělehradská 21, 120 00 Praha 2 – Vinohrady
 # noresidence: yes
 contentSize: default
 # Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
