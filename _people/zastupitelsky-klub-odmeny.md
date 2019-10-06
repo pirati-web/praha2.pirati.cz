@@ -12,7 +12,7 @@ groups:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf-FUPpBFQn9iKAM_LoxoKYAUZ867vFhGXmJjP9bhTnEmMtx5XcjK4wsMNtOvTuEUJEmmZhkuC2qp9/pubhtml?widget=true&amp;headers=false" scrolling="no" width="80%" height="450"></iframe>
 
-Jedná se o čistý příjem odměn dle Nařízení vlády č. 318/2017 Sb. a odměn za svatební obřady po zdanění a zaplacení zdravotního pojištění.
+Jedná se o čistý příjem odměn dle Nařízení vlády č. 318/2017 Sb., náhrady výdělku ušlého v souvislosti s výkonem funkce neuvolněného člena/členky ZMČ a odměn za svatební obřady po zdanění a zaplacení zdravotního pojištění.
 
 Usnesením ZMČ Praha 2 č. 4 ze dne 5. 11. 2018 stanovuje odměny neuvolněným členům Zastupitelstva městské části Praha 2 dle zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů a nařízení vlády ČR č. 318/2017 Sb., ve znění pozdějších předpisů takto:
 
