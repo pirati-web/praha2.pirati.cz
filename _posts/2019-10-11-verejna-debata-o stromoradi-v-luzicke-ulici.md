@@ -3,7 +3,7 @@ date: 2019-10-11
 category: blog
 tags: 
 layout: post
-title: Veřejná debata o stromořadí v Lužické ulici
+title: Veřejná debata o stromořadí v Lužické ulici (video)
 author: Jaroslav Němec
 authorId: jaroslav.nemec
 image: posts/stromoradi_luzicka_mem.jpg
