@@ -6,7 +6,7 @@ layout: post
 title: Veřejná debata o stromořadí v Lužické ulici
 author: Jaroslav Němec
 authorId: jaroslav.nemec
-image: stromoradi_luzicka_mem.jpg
+image: post/stromoradi_luzicka_mem.jpg
 ---
 Stromořadí vytváří jedinečnost místa, genius loci a zároveň je tolik vyhledávaným a ceněným prvkem v zastavěném městském prostředí. Jedná se zejména o vzrostlé břestovce západní /Celtis occidentalis/, které jsou nádherně klenuté, někdy i vzájemně propojené a celá ulice díky těmto vzrostlým stromům poskytuje stín a příjemnou přírodní klenbu přes celou ulici. Ne náhodou bylo stromořadí v Lužické ulici v roce 2011 nominováno na alej roku. V roce 2018 se začala připravovat rekonstrukce tohoto uličního stromořadí, která se stala letos předmětem veřejné diskuze na facebookové skupině [Zachováme stromořadí v Lužické ulici](https://www.facebook.com/groups/stromy.luzicka/).
 
