@@ -6,9 +6,31 @@
   redmine: 15490
 -
   id: 2
+  title: Záchrana stromů na Smetance
+  desc: Kvůli stavbě sportovního hřiště u ZŠ Na Smetance má být pokáceno 23 stromů. Tomu chceme zabránit.
+  garant: magdalena.valdmanova
+  redmine: 15529
+-
+  id: 3
   title: Obnova starých pump, pítek a kašen
   desc: Chceme rozšířit počet fontánek na pití a kašen. Provedeme revizi starých pump, necháme je vyčistit a opětovně uvedeme do provozu.
   garant: jaroslav.nemec
   redmine: 15576
 -
-
+  id:4
+  title: Umělecké díla ve veřejném prostoru
+  desc: Zkulturníme veřejné prostory instalací uměleckých děl. Provedeme inventarizaci uměleckých děl ve veřejném prostoru a zasadíme se o jejich restaurování a údržbu.
+  garant: jaroslav.nemec
+  redmine: 15577
+-
+  id:5
+  title: Založení komunitní zahrady
+  desc: Iniciujeme založení komunitní zahrady na Praze 2.
+  garant: magdalena.valdmanova
+  redmine: 15484
+-
+  id:6
+  title: Pirátské listy Prahy 2 - opoziční
+  desc: Vydávání opozičních "Pirátský listů Prahy 2"
+  garant: lydie.bartosova
+  redmine: 15580
