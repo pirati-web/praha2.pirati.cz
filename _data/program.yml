@@ -1,6 +1,14 @@
- id: 1
+-
+  id: 1
+  title: Záchrana nádraží Vyšehrad
+  desc: Historicky a architektonicky cenné objekty je třeba opravovat, ne bourat. Požadujeme důkladný dohled orgánů státní správy nad stavem kulturních památek a dodržování povinnosti vlastníka kulturních památek vyplývajících ze zákona. Zachráníme Nádraží Vyšehrad.
+  garant: jaroslav.nemec
+  redmine: 15490
+-
+  id: 2
   title: Obnova starých pump, pítek a kašen
   desc: Chceme rozšířit počet fontánek na pití a kašen. Provedeme revizi starých pump, necháme je vyčistit a opětovně uvedeme do provozu.
   garant: jaroslav.nemec
   redmine: 15576
 -
+
