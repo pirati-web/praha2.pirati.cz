@@ -16,4 +16,4 @@ Martin Altschmied
 
 {% asset 'posts/altschmied_np2_11-2019.jpg' alt='Martin Altschmied' %}
 
-[Noviny Prahy 2, říjen 2019](http://praha2.cz/file/IUu1/11npd-c.pdf)
+[Noviny Prahy 2, listopad 2019](http://praha2.cz/file/IUu1/11npd-c.pdf)
