@@ -6,30 +6,54 @@
   redmine: 15490
 -
   id: 2
-  title: Záchrana stromů Na Smetance
-  desc: Kvůli stavbě sportovního hřiště u ZŠ Na Smetance má být pokáceno 23 stromů. Tomu chceme zabránit.
+  title: Záchrana a zachování stromů v Praze 2
+  desc: V Praze 2 dochází ke kácení vzrostlých stromů. Tomu chceme zabránit.
   garant: magdalena.valdmanova
   redmine: 15529
 -
   id: 3
-  title: Obnova starých pump, pítek a kašen
-  desc: Chceme rozšířit počet fontánek na pití a kašen. Provedeme revizi starých pump, necháme je vyčistit a opětovně uvedeme do provozu.
+  title: Transparence
+  desc: Pojďme společně otevřít radnici, začít žít naše město, náš městský obvod v duchu současnosti. Radnici Prahy 2 je třeba řádně vyvětrat!
   garant: jaroslav.nemec
-  redmine: 15576
+  redmine: 24732
 -
   id: 4
-  title: Umělecké díla ve veřejném prostoru
-  desc: Zkulturníme veřejné prostory instalací uměleckých děl. Provedeme inventarizaci uměleckých děl ve veřejném prostoru a zasadíme se o jejich restaurování a údržbu.
-  garant: jaroslav.nemec
-  redmine: 15577
--
-  id: 5
   title: Založení komunitní zahrady
   desc: Iniciujeme založení komunitní zahrady na Praze 2.
   garant: magdalena.valdmanova
   redmine: 15484
 -
+  id: 5
+  title: Bydlení – obecní byty, krátkodobé ubytování, bytová výstavba, sociální bydlení...
+  desc: Pro spokojené sousedství je důležitý komunitní život. Podpoříme všechny druhy aktivit, které zpříjemní soužití obyvatel našeho obvodu.
+  garant: lukas.funk
+  redmine: 24726
+-
   id: 6
+  title: Podpora spolkových a komunitních aktivit v Praze 2
+  desc: Pro spokojené sousedství je důležitý komunitní život. Podpoříme všechny druhy aktivit, které zpříjemní soužití obyvatel našeho obvodu.
+  garant: jaroslav.nemec
+  redmine: 24738
+-
+  id: 7
+  title: Obnova starých pump, pítek a kašen
+  desc: Chceme rozšířit počet fontánek na pití a kašen. Provedeme revizi starých pump, necháme je vyčistit a opětovně uvedeme do provozu.
+  garant: jaroslav.nemec
+  redmine: 15576
+-
+  id: 8
+  title: Umělecké díla ve veřejném prostoru
+  desc: Zkulturníme veřejné prostory instalací uměleckých děl. Provedeme inventarizaci uměleckých děl ve veřejném prostoru a zasadíme se o jejich restaurování a údržbu.
+  garant: jaroslav.nemec
+  redmine: 15577
+-
+  id: 9
+  title: Participativní rozpočet
+  desc: Realizace pilotního programu participativního rozpočtu.
+  garant: martin.altschmied
+  redmine: 24740
+-
+  id: 10
   title: Pirátské listy Prahy 2 - opoziční
   desc: Vydávání opozičních Pirátský listů Prahy 2.
   garant: lydie.bartosova
