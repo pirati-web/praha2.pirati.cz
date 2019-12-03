@@ -1,5 +1,5 @@
 ---
-date: 2019-12-04
+date: 2019-12-03
 category: blog
 tags:
     
@@ -24,3 +24,4 @@ Má tedy MČ investovat veřejné finance z prodeje majetku do takovýchto rizik
 Podle našeho názoru by se s veřejnými prostředky mělo zacházet při zhodnocování velmi defenzivně, a to i za cenu mírného snížení reálné hodnoty při dočasně rostoucí míře inflace. Pokud pro ně samozřejmě nenajdeme smysluplnější a lepší zhodnocení, např. do bytového fondu. K tomu názoru nás vede i známá kauza Key investments, kde Praha 10 přišla o cca 90 milionů. 
 
 Pro úplnost, Praha 2 disponuje 2,858 miliardy korun získaných z prodeje majetku. Aktuálně se chystá rozinvestovat 1,85 miliardy, z toho do více rizikových aktiv 0,95 miliardy. Další 1 miliarda ještě zůstane na běžných a termínovaných účtech, a v jiných méně rizikových aktivech.
+
