@@ -25,7 +25,7 @@ Jaroslav Němec (* 14. 8. 1978 v Ostravě) žije a pracuje v Praze. Ženatý, ot
 
 * člen [MS Piráti Praha 2](http://praha2.pirati.cz)
 * zastupitel a předseda politického klubu České pirátské strany [Zastupitelstva městské části Praha 2](http://urad.praha2.cz/Zastupitelstvo-MC-seznam)
-* člen [Redakční rady Novin Prahy 2 Rady Městské části Praha 2](http://urad.praha2.cz/Redakcni-rada-Novin-Prahy2)
+* člen [Dopravní komise Rady Městské části Praha 2](http://urad.praha2.cz/Dopravni-komise)
 * člen [Majetkové komise Rady Městské části Praha 2](http://urad.praha2.cz/Majetkova-komise)
 * člen [Komise rozvoje Rady Městské části Praha 2](http://urad.praha2.cz/Komise-rozvoje)
 * asistent poslance [Lukáše Černohorského](http://www.psp.cz/sqw/detail.sqw?id=6442&amp;o=8) a [Ondřeje Polanského](http://www.psp.cz/sqw/detail.sqw?id=6529)
