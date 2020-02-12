@@ -11,7 +11,7 @@ category:
   - sk
   - rrnp2
 ordz: 2
-description: zastupitelka MČ Praha 2, místopředsedkyně klubu zastupitelů Pirátů MČ Praha 2, místopředsedkyně KS Praha
+description: zastupitelka a místopředsedkyně klubu zastupitelů Pirátů MČ Praha 2, místopředsedkyně KS Praha
 img: people/magdalena-valdmanova.jpg # zakomentuj radek dokud není fotka
 mail:
   - magdalena.valdmanova@pirati.cz
@@ -30,7 +30,7 @@ Zajímají jí sociální témata, hudba, film, přátele. Má moc ráda Prahu a
 * místopředsedkyně [KS Praha](http://praha.pirati.cz)
 * zastupitelka a místopředsedkyně politického klubu České pirátské strany [Zastupitelstva městské části Praha 2](http://urad.praha2.cz/Zastupitelstvo-MC-seznam)
 * členka [Sociální komise Rady Městské části Praha 2](http://urad.praha2.cz/Socialni-komise)
-* členka [Komise výchovy a vzdělávání Rady Městské části Praha 2](http://urad.praha2.cz/Komise-vychovy-a-vzdelavani)
+* členka [Redakční rada Novin Prahy 2](http://urad.praha2.cz/Redakcni-rada-Novin-Prahy2)
 * členka [Majetkového výboru Zastupitelstva městské části Praha 2](http://urad.praha2.cz/Majetkovy-vybor)
 * členka [Komise Rady hl. m. Prahy pro nočního starostu](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/rada/komise_rady/index.html?commissionId=33998)
-* poradkyně [primátora hl. m. Prahy MUDr. Zdeňka Hřiba](http://www.praha.eu/jnp/cz/o_meste/magistrat/odbory/index.html?departmentId=1151)
+* asistentka Viktora Mahrika, předsedy Výbor pro správu majetku, majetkové podíly a podporu podnikání ZHMP a předsedy zastupitelského klubu Pirátů ZHMP
