@@ -13,7 +13,7 @@ category:
   - kontaktni_osoba
 ordz: 1
 description: zastupitel MČ Praha 2, předseda klubu zastupitelů Pirátů MČ Praha 2
-img: people/jaroslav-nemec.jpg
+img: people/jaroslav-nemec.jpg 
 mail:
   - jaroslav.nemec@pirati.cz
 profiles: 
