@@ -24,6 +24,6 @@ Registrujte se na [nalodění.](https://nalodeni.pirati.cz)
 
 <h2>Finanční dary</h2>
 
-Finanční dary můžete posílat na [dary](https://dary.pirati.cz). Pokud chcete darovat přimo našemu místnímu sdružení, poradťe se s [Dinem Arnautovičem.](https://praha2.pirati.cz/lide/dino-arnautovic)
+Finanční dary můžete posílat na [dary](https://dary.pirati.cz). Finanční dary jsou dobrý způsob, jak Pirátům můžete pomáhat v jejich činnosti. Preferovaným způsobem darování je převod na transparentní účet. Veškeré platby převodem je dle zákona nutné zasílat na zvláštní účet Pirátů č. 2100048174/2010 (Fio banka), registrovaný u [ÚDHPSH](https://registrace.udhpsh.cz/seznam/suazu) Pokud chcete darovat přimo našemu místnímu sdružení, uveďte specifický symbol <b>110102</b>.
 
 
