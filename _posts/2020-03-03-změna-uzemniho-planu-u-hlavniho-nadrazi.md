@@ -4,7 +4,7 @@ category: blog
 tags:
     
 layout: post
-title: Změna Územního plánu u HLavního nádraží
+title: Změna Územního plánu u Hlavního nádraží
 author: Jaroslav Němec
 authorId:  jaroslav.nemec
 image: posts/penta_14.jpg
