@@ -15,4 +15,4 @@ image: posts/zykan_np2_3-2020.png
 
 {% asset 'posts/zykan_np2_3-2020.jpg' alt='Radek Zykan' %}
 
-[Noviny Prahy 2, úbřezen 2020](http://praha2.cz/file/a6v1/03-2020-PRAHA-NOVINY.pdf)
+[Noviny Prahy 2, březen 2020](http://praha2.cz/file/a6v1/03-2020-PRAHA-NOVINY.pdf)
