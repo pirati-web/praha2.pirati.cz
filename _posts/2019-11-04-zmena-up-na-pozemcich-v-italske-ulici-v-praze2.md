@@ -7,7 +7,7 @@ layout: post
 title: Změna Územního plánu na pozemcích v Italské ulice v Praze 2
 author: Jaroslav Němec
 authorId:  jaroslav.nemec
-image: posts/penta_14.jpg
+image: posts/zmena_up_novy-domov.jpg
 ---
 <h3>Stanovisko zastupitelského klubu Pirátů ZMČ Praha 2 k podnětu na pořízení změny Územního plánu sídelního útvaru hl. m. Prahy zkráceným postupem týkajícího se pozemků parc. č. 2275/1, 2275/2, 2275/3 a 2275/4, k. ú. Vinohrady, Praha 2</h3>
 
