@@ -7,7 +7,7 @@ layout: post
 title: Navrhli jsme pomoci podnikatelům a občanům v Praze 2, kteří mají pronajaté bytové a nebytové prostory ve správě městské části 
 author: 
 authorId:  
-image: posts/vyzva.jpg
+image: posts/vyzva01.jpg
 ---
 Piráti Prahy 2 bedlivě sledují vývoj ekonomického dopadu vládou přijatých opatření v souvislosti s pandemií COVID-19. Uvědomujeme si, jaký mají současná opatření, na která nebylo možné se předem připravit, zásadní dopad na podnikatele a na životy našich sousedů, občanů Prahy 2. 
 
