@@ -1,0 +1,28 @@
+---
+date: 2020-03-16
+category: blog
+tags:
+    
+layout: post
+title: Jeden velký Nový domov nebo více menších domovů pro seniory?
+author: Jaroslav Němec, Robert Veverka
+authorId:  
+image: posts/zmena_up_novy-domov.jpg
+---
+
+Praha 2 se chystá zastavět sportoviště v Italské ulici. Jde o hřiště s prvorepublikovou tradicí. Místo tenisových kurtů a 30 zdravých vzrostlých stromů, má vzniknout „Nový domov“ s výhledem na Pražský hrad pro 120 nesoběstačných, částečně nebo zcela imobilních osob seniorského věku či dospělé s těžším stupněm demence.
+
+Součástí projektu není architektonická soutěž, ačkoli se jedná o centrum Prahy, památkovou zónu a ochrané pásmo památkové rezervace UNESCO. Rada městské části Praha 2, která je složena z koalice ODS, ANO, TOP 09 a OSB v pondělí 2. března 2020 schválila projektanta, který připraví podklady pro záměr postavit Nový domov pro seniory. Nabídka společnosti INTAR byla nejvýhodnější ekonomicky. Celková cena včetně DPH činí 23 619 200 Kč. Radnice má jen rámcovou představu o stavebním programu a vůbec žádné zadání pro urbanistický charakter požadovaného. „<i>Takto by se rozhodně projektant neměl vybírat. Od studie před projektovou dokumentací až do kolaudace stavby? To je ryzí diletantismus a recept na následné předražování projektu i stavby,</i>” komentuje postup radnice Jaroslav Němec, předseda zastupitelského klubu Pirátů Prahy 2 a upřesňuje, že „<i>pokud už nebyla vyhlášena architektonická soutěž, mělo se alespoň oddělit zadání studie a územní řízení, následně udělat výběrové řízení na stavební povolení a prováděcí dokumentace. Tak by se předešlo různým prodražováním projektu za pochodu nebo v realizaci. Stupně stavební povolení a realizační projekt už jenom zpřesňují základní koncepci domu, kdežto ve studii a územním řízení tato základní koncepce teprve vzniká. Vybraná projekční společnost není zárukou dobré architektury, naopak, dle referencí na jejich internetových stránkách se architektonické kvality projektu doslova děsím. Očekávám dle norem pospojovaný stavební materiál. Přitom jde o veřejnou stavbu v centru města, v památkové zóně za bezmála půl miliardy korun. To považuji za nepřípustné.</i>” 
+
+V zadávacích podmínkách při hledání vhodného prostoru, ať již pozemku nebo budovy bylo definováno 80–120 lůžek. Pokud by se však jednalo o menší zařízení s kapacitou napříkad 30–50 lůžek, lokalit na umístění podobných Nových domovů by se našlo i více. Dnešní trend je navíc spíše podpora péče o seniora v jeho domácím prostředí nebo umístění do menšího zařízení, které funguje více jako přátelská komunita než jako nemocnice.
+
+Praha 2 v současné době eviduje v Centru sociálních služeb 37 lidí se syndromem demence, z toho 14 lidí by potřebovalo být v nějakém specializovaném zařízení. V roce 2019 bylo 38 zájemců, kteří projevili potřebu domova se zvláštním určením, v roce 2016 to bylo přitom 151 poptávajících. Centrum sociálních služeb Prahy 2 v roce 2017 požadovalo zřízení nové služby domova se zvláštním režimem s kapacitou 40 lůžek.
+
+„<i>Dostupné podklady argumentující ve prospěch zbudování Nového domova jsou neaktuální. Praha 2 je pod celopražským věkovým průměrem, tedy obyvatelé dvojky nejsou tak staří, jak prezentuje místostarostka Alexandra Udženija, která na posledním zastupitelstvu odešla těsně před interpelacemi zastupitelů, v rámci kterých se probíraly detaily právě tohoto projektu,</i>” komentuje situaci Robert Veverka, předseda Kontrolního výboru ZMČ Prahy 2 (Piráti) a doplňuje: „<i>radnice pod vedením starostky Černochové (ODS) není transparentní. Není jasný detailní rozpočet projektu, není zřejmé kolik bude stát vybavení budovy, není jasné, jak a z čeho se bude financovat následný provoz. Není zřejmé, že prosazovaný projekt Nový domov bude v souladu s připravovanou reformou psychiatrické péče, resp. s (Národním akčním plánem pro Alzheimerovu nemoc)[http://hygpraha.cz/dokumenty/ministerstvo-zdravotnictvi-a-nudz-pripravily-narodni-akcni-plan-pro-alzheimerovu-nemoc-4362_4362_161_1.html]. Samé otázky a téměř žádné odpovědi.</i>“
+
+Nechceme jeden velký předimenzovaný a předražený „Nový domov”, <b>chceme více menších  domovů pro seniory, ale především zvýšenou podporu domácí a komunitní péče</b>, tak aby senioři Prahy 2 nebyli vytrhávání ze svého domova, ale mohli využít sociálních a zdravotnických služeb či domovů seniorů co nejblíže jejich původního bydliště. 
+
+Pokud by vedení Prahy 2 skutečně dlouhodobě uvažovalo o řešení, mohlo v minulosti usilovat o získání například (Borůvkova sanatoria)[https://praha2.pirati.cz/aktuality/sanatorium.html]. V Praze 2 je mnoho dalších prázdných budov, které by bylo možné koupit a umístit v nich domovy pro seniory a jiné speciální sociální a zdravotní instituce. V roce 2017 se zvažovalo umístit domov seniorů do domu na rohu ulic Šafaříkové a U Zvonařky, který však nesplňoval kapacitu 120 lůžek, ale dal by se tam umístit kapacitně domov menší.  Místo toho svůj ¾ vlastnický podíl v roce 2018 Praha 2 prodala. 
+
+Dlouhodobě chátrají v soukromém vlastnictví například bývalé Parní lázně v ulici Na Slupi, které navazují na krásnou zahradu ve správě Prahy 2 a sousední botanickou zahradu. Nyní by se dalo zamyslet i nad (nádražím Vyšehrad)[http://zachranimenadrazivysehrad.cz], které by mohlo poskytnout smysluplnější využití jako sociální centrum, než jako galerie Muchovy Slovanské epopeje, která se do nádražní budovy nevejde. Z tohoto malého výčtu je patrné, že pokud by ze strany radnice byl zájem hledat i jiná řešení, daly by se najít. Místo toho ovšem místostarostka Alexandra Udženija hodlá zničit veřejné sportoviště a pozemek s historickou tradicí doslova „zalít betonem”.
+
