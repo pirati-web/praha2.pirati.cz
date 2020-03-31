@@ -2,13 +2,10 @@
 date: 2020-04-01
 category: blog
 tags:
-    
 layout: post
 title: Přišel čas táhnout za jeden provaz aneb nová koalice na Praze 2
-
 author: 
 authorId:  
-
 image: posts/nova-koala3b.jpg
 ---
 
