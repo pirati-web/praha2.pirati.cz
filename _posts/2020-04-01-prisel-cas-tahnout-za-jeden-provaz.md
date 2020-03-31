@@ -4,10 +4,11 @@ category: blog
 tags:
     
 layout: post
-title: Přišel čas táhnout za jeden provaz - Nová koalice na Praze 2?
+title: Přišel čas táhnout za jeden provaz - Nová koalice na Praze 2!
 
 author: 
 authorId:  
+
 image: posts/nova-koala3b.jpg
 ---
 1. 4. 2020, Praha – Radnice Prahy 2 není žádná anarchistická buňka, potvrdila starostka Jana Černochová (ODS), když oznámila, že řádné zasedání zastupitelstva Prahy 2, které se mělo uskutečnit 20. 4. 2020, se přesunulo na 18. 5. 2020, aby bylo zajištěno dodržení 3 měsíční zákonné lhůty pro svolání zastupitelstva. Na zasedání se plánuje řešit především nové vedení Prahy 2.
