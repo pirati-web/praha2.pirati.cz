@@ -4,7 +4,7 @@ category: blog
 tags:
     
 layout: post
-title: Přišel čas táhnout za jeden provaz - Nová koalice na Praze 2!
+title: Přišel čas táhnout za jeden provaz aneb nová koalice na Praze 2
 
 author: 
 authorId:  
