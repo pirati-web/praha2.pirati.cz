@@ -24,7 +24,7 @@ Společně to zvládneme!
 
 {% asset 'posts/vyzva.jpg' alt='Společně to zvládneme' %}
 
-<h4>Celé znění dopisu Janě Černochové, starostce MČ Praha 2 ze dne 20. 3. 2020:</h4>
+<h4>Celé znění dopisu Janě Černochové, starostce MČ Praha 2 ze dne 26. 3. 2020:</h4>
 
 <i>Vážená paní starostko,</i>
 
