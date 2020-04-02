@@ -8,7 +8,7 @@ title: Navrhli jsme rozšířit kapacity dětských skupin i pro další děti p
 
 author: 
 authorId:  
-image: posts/vyzva03.jpg
+image: posts/vyzva03b.jpg
 ---
 
 Piráti Prahy 2 si v souvislosti s pandemií COVID-19 uvědomují nelehkou situaci mnohých občanů, našich sousedů, kteří musí v těchto ztížených podmínkách být v práci a nemají žádnou možnost hlídání dětí. Praha 2 již 16. 3. na popud žádosti magistrátu vyčlenila dvě mateřské školky a jednu základní školu pro dětské skupiny. Využít je mohou pro své děti ve věku od 3 do 10 let pracovníci integrovaného záchranného systému (IZS), spolupracující s městskou částí Praha 2, zaměstnanci Úřadu městské části a příspěvkových organizací zřizovaným Prahou 2. 
