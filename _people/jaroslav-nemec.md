@@ -14,7 +14,7 @@ category:
   - predsednictvo
 ordpms: 3
 ordz: 1
-description: zastupitel a předseda klubu zastupitelů Pirátů MČ Praha 2
+description: zastupitel a předseda klubu zastupitelů Pirátů MČ Praha 2, místopředseda MS Praha 2
 img: people/jaroslav-nemec.jpg 
 mail:
   - jaroslav.nemec@pirati.cz
