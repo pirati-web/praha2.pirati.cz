@@ -14,7 +14,7 @@ category:
 ordpms: 2
 ordz: 7
 img: people/martin-altschmied.jpg # zakomentuj radek dokud není fotka
-description: zastupitel MČ Praha 2, business analytik
+description: zastupitel MČ Praha 2, místopředseda MS Praha 2, business analytik
 
 mail:
   - martin.altschmied@pirati.cz
