@@ -5,7 +5,6 @@ titles:
   before: 
   after: 
 category:
-  - predsednictvo
   - zastupitel
   - mk
   - it
