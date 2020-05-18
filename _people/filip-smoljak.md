@@ -6,7 +6,7 @@ titles:
   after: 
 category:
   - kk
-description: místopředseda MS Praha 2
+description: 
 img: people/filip-smoljak.jpg 
 mail:
   - filip.smoljak@pirati.cz
