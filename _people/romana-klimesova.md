@@ -5,9 +5,6 @@ titles:
   before: 
   after: 
 category:
-  - predsednictvo
-  - kontaktni_osoba
-ordpms: 2
 description: místopředsedkyně MS Praha 2
 img: people/romana-klimesova.jpg 
 mail:
