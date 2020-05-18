@@ -11,6 +11,8 @@ category:
   - kr
   - dk
   - kontaktni_osoba
+  - predsednictvo
+ordpms: 3
 ordz: 1
 description: zastupitel a předseda klubu zastupitelů Pirátů MČ Praha 2
 img: people/jaroslav-nemec.jpg 
