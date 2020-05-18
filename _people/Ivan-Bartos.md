@@ -5,9 +5,6 @@ titles:
   before: PhDr.
   after:  Ph.D.
 category:
-  - clenove
-
-ordclenove: 3
 description: předseda Pirátů, poslanec PSP ČR za Středočeský kraj
 img: people/ivan-bartos.jpg # zakomentuj radek dokud není fotka
 mail:
