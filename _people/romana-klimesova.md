@@ -5,7 +5,7 @@ titles:
   before: 
   after: 
 category:
-description: místopředsedkyně MS Praha 2
+description: 
 img: people/romana-klimesova.jpg 
 mail:
   - romana.klimesova@pirati.cz
