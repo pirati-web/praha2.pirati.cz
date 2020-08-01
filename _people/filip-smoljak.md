@@ -5,7 +5,6 @@ titles:
   before: 
   after: 
 category:
-  - kk
 description: 
 img: people/filip-smoljak.jpg 
 mail:
