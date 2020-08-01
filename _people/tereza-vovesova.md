@@ -5,7 +5,6 @@ titles:
   before: 
   after: 
 category:
-  - clenove
 ordclenove: 13
 description: 
 img: people/tereza-vovesova.jpg 
