@@ -6,7 +6,6 @@ titles:
   after:
 category:
   - priznivci
-  - bytk
 img: people/viliam-jager.jpg # zakomentuj radek dokud není fotka
 
 description: podnikatel
