@@ -6,7 +6,7 @@ titles:
   after: 
 category:
   - clenove
-ordz: 5
+ordclenove: 15
 description: IT manager 
 img: people/adam-kheil.jpg # zakomentuj radek dokud není fotka
 mail:
