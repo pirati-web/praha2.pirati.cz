@@ -2,9 +2,8 @@
 date: 2020-06-07
 category: blog
 tags:
-    
 layout: post
-title: Organizace: 1, Technologie: 3
+title: Organizace 1, Technologie 3
 author: Martin Altschmied
 authorId:  martin.altschmied
 image: posts/06-2020_np2.png
