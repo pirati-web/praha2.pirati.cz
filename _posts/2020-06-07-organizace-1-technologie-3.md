@@ -15,4 +15,4 @@ Téměř ze dne na den došlo k plošnému uzavření základních a následně 
 Martin Altschmied
 
 
-[Noviny Prahy 2, červen 2020](http://www.praha2.cz/file/yGu1/01-2020-PRAHA-NOVINY-WEB.pdf)
+[Noviny Prahy 2, červen 2020](http://praha2.cz/file/xlv1/06-2020-PRAHA-NOVINY-web.pdf)
