@@ -11,8 +11,7 @@ ordclenove: 14
 img: people/jakub-klesal.jpg # zakomentuj radek dokud není fotka
 description: 
 
-mail: jakub.klesal@pirati.cz
-  - 
+mail: jakub.klesal@pirati.cz 
 profiles:
  
 ---
