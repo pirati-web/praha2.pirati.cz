@@ -10,7 +10,7 @@ authorId:  jaroslav.nemec
 image: posts/vysehrad.jpg
 ---
 
-Na razantní zhoršení stavu památkově chráněné budovy nádraží Vyšehrad upozornil zastupitel Prahy 2 Jaroslav Němec, který se o osud secesní stavby dlouhodobě zajímá. Majitel objektu firma RailCity Vyšehrad řadu let nechává stavbu chátrat a také blokuje možnost odkupu ze strany hlavního města. Firma za bývalou drážní budovu požaduje 117 milionů korun, ačkoliv znalecký posudek ji ohodnotil na necelých 70 milionů.
+**Na razantní zhoršení stavu památkově chráněné budovy nádraží Vyšehrad upozornil zastupitel Prahy 2 Jaroslav Němec, který se o osud secesní stavby dlouhodobě zajímá. Majitel objektu firma RailCity Vyšehrad řadu let nechává stavbu chátrat a také blokuje možnost odkupu ze strany hlavního města. Firma za bývalou drážní budovu požaduje 117 milionů korun, ačkoliv znalecký posudek ji ohodnotil na necelých 70 milionů.**
 
 > „Aktuální fotografie dokazují, že již chybí velké části střešní krytiny, plechy opadávají a na některých místech je již viditelná spodní dřevěná konstrukce. Ještě pár měsíců zpět střecha v tak špatném stavu nebyla. Jestli do ní bude dál zatékat nebo padat sníh, tak se bude nejen dál snižovat hodnota památky, ale i prodražovat její oprava,“ popisuje současný stav nádraží Němec.
 
