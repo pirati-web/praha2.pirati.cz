@@ -6,7 +6,7 @@ tags:
 layout: post
 title: Praha 2 svěřila na zhodnocení 300 milionů firmě podnikatele, který je v exekuci
 author: Jaroslav Němec, Robert Veverka
-authorId:  jaroslav.nemec, robert.veverka
+
 image: posts/bodlac3i.jpg
 ---
 
