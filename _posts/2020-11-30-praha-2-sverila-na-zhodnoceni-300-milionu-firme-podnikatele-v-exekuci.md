@@ -22,4 +22,4 @@ Dvojková koalice jde už více než rok vstříc nemalému investičnímu rizik
  
 Tím to ovšem nekončí. „Jak jsme nyní zjistili z výpisu Centrální evidence exekucí, jsou v současné době na Pavla Bodláka vedené další dvě exekuce v jistinách celkem přes 55,1 milionů korun. Tato částka se nerovná aktuální vymáhané povinnosti, která může být vyšší, jak narůstají náklady a úroky nebo naopak i nižší, pokud postupně splácí. A on pravděpodobně splácí. Ale nikoli ze svého, ale z peněz všech obyvatel Prahy 2,“ říká k tomu zastupitel a předseda kontrolního výboru Prahy 2 Robert Veverka.
 
-Podrobnější rešerši rizikové operace Prahy 2 naleznete <a href="jarnemec.cz/nepoucitelnost-komunalnich-politiku-v-praze-2-aneb-hazeni-stovek-milionu-do-bodlaci-rizikovych-investic/" target="new">zde</a>
+Podrobnější rešerši rizikové operace Prahy 2 naleznete <a href="http://jarnemec.cz/nepoucitelnost-komunalnich-politiku-v-praze-2-aneb-hazeni-stovek-milionu-do-bodlaci-rizikovych-investic/" target="new">zde</a>
