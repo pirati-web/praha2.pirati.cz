@@ -10,7 +10,7 @@ authorId:  jaroslav.nemec
 image: posts/bodlac3i.jpg
 ---
 
-** Koalice na Praze 2 v čele se starostkou a poslankyní Janou Černochovou (ODS) klidně ať hazarduje se svou pověstí, ale že hazardují s veřejnými prostředky v hodnotě stovek milionů korun považují Piráti Praha 2 za nezodpovědné a hlavně nepřijatelné. **
+<b>Koalice na Praze 2 v čele se starostkou a poslankyní Janou Černochovou (ODS) klidně ať hazarduje se svou pověstí, ale že hazardují s veřejnými prostředky v hodnotě stovek milionů korun považují Piráti Praha 2 za nezodpovědné a hlavně nepřijatelné.</b>
 
 Na sklonku roku 2019 totiž úřadující místostarosta Jan Korseska (ODS) předložil na jednání zastupitelstva návrh ke zhodnocení 1,85 miliardy korun získaných z prodeje bytů a domů na dvojce. Bez projednání, bez širší diskuse mezi zastupiteli a v nedostatečném čase na detailní seznámení se s portfolii vybraných finančních domů, odsouhlasila koaliční hlasovací mašina neuvěřitelně rizikovou investici. Například 300 milionů putovalo do malé společnosti Carduus Asset Management s minimální historií, kterou zastupuje finančník Pavel Bodlák. 
 
@@ -22,4 +22,4 @@ Dvojková koalice jde už více než rok vstříc nemalému investičnímu rizik
  
 Tím to ovšem nekončí. „Jak jsme nyní zjistili z výpisu Centrální evidence exekucí, jsou v současné době na Pavla Bodláka vedené další dvě exekuce v jistinách celkem přes 55,1 milionů korun. Tato částka se nerovná aktuální vymáhané povinnosti, která může být vyšší, jak narůstají náklady a úroky nebo naopak i nižší, pokud postupně splácí. A on pravděpodobně splácí. Ale nikoli ze svého, ale z peněz všech obyvatel Prahy 2,“ říká k tomu zastupitel a předseda kontrolního výboru Prahy 2 Robert Veverka.
 
-Podrobnější rešerši rizikové operace Prahy 2 naleznete a href"jarnemec.cz/nepoucitelnost-komunalnich-politiku-v-praze-2-aneb-hazeni-stovek-milionu-do-bodlaci-rizikovych-investic/" target="new">zde</a>
+Podrobnější rešerši rizikové operace Prahy 2 naleznete <a href"jarnemec.cz/nepoucitelnost-komunalnich-politiku-v-praze-2-aneb-hazeni-stovek-milionu-do-bodlaci-rizikovych-investic/" target="new">zde</a>
