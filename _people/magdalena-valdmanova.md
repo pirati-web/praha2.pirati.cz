@@ -27,7 +27,6 @@ Zajímají jí sociální témata, hudba, film, přátele. Má moc ráda Prahu a
 
 
 * členka [MS Piráti Praha 2](http://praha2.pirati.cz)
-* místopředsedkyně [KS Praha](http://praha.pirati.cz)
 * zastupitelka a místopředsedkyně politického klubu České pirátské strany [Zastupitelstva městské části Praha 2](http://urad.praha2.cz/Zastupitelstvo-MC-seznam)
 * členka [Sociální komise Rady Městské části Praha 2](http://urad.praha2.cz/Socialni-komise)
 * členka [Redakční rada Novin Prahy 2](http://urad.praha2.cz/Redakcni-rada-Novin-Prahy2)
