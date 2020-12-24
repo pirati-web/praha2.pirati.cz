@@ -30,4 +30,6 @@ Od roku 2015 působí v numismatickém oddělení Národního muzea v Praze.
 
 V roce 2011 spoluzakládal občanské sdružení se zaměřením na památkovou péči a popularizaci archeologie.
 
+Lukáš je od roku 2018 zastupitelem Prahy 2, členem finanční, kulturní a bytové komise. Je rovněž aktivním členem Resortního týmu Kultura poslaneckého klubu Pirátů a členem pražského Kontrolního týmu.
+
 K jeho zájmům patří kromě historie a numismatiky také kultura, hudba, práce se dřevem a kůží, koloběžka a badminton.
