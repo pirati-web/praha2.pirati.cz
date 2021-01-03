@@ -21,10 +21,9 @@ profiles:
 
 (*29. 9. 1981). Celý život žije v Praze.
 
-Po odmaturování (Management a podnikání v umění a reklamě) a po mateřské dovolené začala pracovat v různých firmách a později v tréningové kavárně, která zaměstnávala mladé lidi po odchodu z dětský domovů. V současnosti má vlastní catering, kde tyto lidi zaměstnává. Zároveň pracuje pro start-up zabývající se e-learningem.
-Zajímají jí sociální témata, hudba, film, přátele. Má moc ráda Prahu a výlety na pár dní pryč z ní.
-Žije se svými dvěma pubertálními syny a třemi kočkami na Vinohradech.
+ Po maturitě v oboru „management a podnikání v umění a reklamě“ nastoupila na mateřskou dovolenou, aby pak začala pracovat v různých firmách a následně v tréninkové kavárně, která zaměstnávala mladé lidi po odchodu z dětský domovů. Právě pro ně pak založila vlastní cateringovou společnost, kde tito znevýhodnění čerství dospěláci pracovali. Další zkušenosti Magdalena získávala ve start-upu zabývající se e-learningem, v kanceláři primátora Hřiba, kde pracovala jako jeho poradkyně a v současnosti tuto pozici zastává u pirátského zastupitele hlavního města Viktora Mahrika. Zároveň je od roku 2018 zastupitelkou na Praze 2. Do loňského prosince byla místopředsedkyní předsednictva krajského sdružení Pirátů v Praze.
 
+Zajímají jí sociální témata, hudba, film, přátele. Má moc ráda Prahu, ale i výlety na venkov. Žije se svými dvěma dospělými syny, třemi kočkami a a jedním partnerem na Vinohradech.
 
 * členka [MS Piráti Praha 2](http://praha2.pirati.cz)
 * zastupitelka a místopředsedkyně politického klubu České pirátské strany [Zastupitelstva městské části Praha 2](http://urad.praha2.cz/Zastupitelstvo-MC-seznam)
