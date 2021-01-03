@@ -5,7 +5,6 @@ titles:
   before: Ing.
   after: MBA
 category:
-  - clenove
   - zastupitel
   - fv
   - it
