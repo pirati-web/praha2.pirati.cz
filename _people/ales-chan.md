@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - priznivci
+  - fk
 img: people/ales-chan.jpg # zakomentuj radek dokud není fotka
 
 description: analytik zastupitelského klubu
