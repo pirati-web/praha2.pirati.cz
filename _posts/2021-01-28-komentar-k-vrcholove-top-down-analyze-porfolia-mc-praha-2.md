@@ -96,4 +96,4 @@ K informacím uvedeným v bodě 5. Vyhodnocení likvidity jednotlivých portfoli
  
 Konečně, k bodu 6 <i>Obecné posouzení rizikového profilu finančních produktů a služeb</i> na str. 7 Analýzy je možno uvést, že, pokud cit.: "<i>... většina produktů a služeb nepřináší zvýšení rizika pro konzervativního investora, nicméně bylo by vhodné posoudit především investiční horizont a rizikový profil investora vůči některým třídám aktiv a investičním stylům.</i>", znamená to, že <b>část produktů a služeb (byť se jedná o menší část) zvýšené riziko přináší.</b> Nezbytné je toto riziko analyzovat a, jak už jsem rovněž uvedl, blíže stanovit investiční horizont pro jednotlivé produkty na základě budoucí potřeby finančních prostředků.
  
-Ze závěrečného celkového hodnocení na str. 8 bychom upozornili na doporučení týkající se dosažení vysoké likvidity celého portfolia, jak jsem uvedl již dříve.
+Ze závěrečného celkového hodnocení na str. 8 bychom upozornili na doporučení týkající se dosažení vysoké likvidity celého portfolia, jak jsem uvedli již dříve.
