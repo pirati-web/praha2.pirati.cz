@@ -10,6 +10,12 @@ author:
 image: posts/podfond_carduus_02.jpg
 ---
 
+V prosincovém čísle Novin Prahy 2 nechala radnice naší městské části otisknout část <i>Vrcholové (top down) analýzy</i>, která má dokazovat, že peníze nás všech jsou nainvestovány řádně a bezpečně. Toto tvrzení se opírá o autoritu zpracovatele analýzy, kterým je bývalý vysoký manažer České spořitelny pan Daniel Heler. Považujeme za nezbytné upozornit na skutečnost, že cílem analýzy, která je i podle našeho názoru velmi dobře zpracována, nebylo posoudit rizika konkrétních investic – jedná se o vrcholovou (top down) analýzu, ale upozornit na případné systémové nedostatky. Proto může po zběžném přečtení skutečně být interpretována výše uvedeným způsobem. 
+
+Podle našeho názoru však tato analýza upozorňuje na celou řadu konkrétních rizik, kterým se při stávajícím způsobu investování MČ Praha 2 vystavuje. Vzhledem k výši investované částky jistě nebude sporu o tom, že veškerým souvisejícím rizikům je potřeba věnovat náležitou pozornost. Z podrobného rozboru úplného znění předmětné analýzy, které mají zastupitelé zvolení za Piráty k dispozici, vyplývá celá řada otázek, které nebyla vedením Prahy 2 doposud nikde jasně zodpovězeny.
+
+<h2>Komentář k Vrcholové (top down) analýze portfolia MČ Praha 2</h2>
+
 Úvodem je třeba zmínit, že analýza je velmi stručná, až obecná. Jedná se o analýzu vrcholovou (top-down), z čehož vyplývá, že její <b>autoři si nekladli za cíl posuzovat rizika jednotlivých konkrétních investic</b>, ale pouze upozornit na případné systémové problémy. Předpokládáme, že autoři Analýzy vyhověli zadání, které MČ Praha 2 zřejmě v tomto smyslu formulovala.
 
 "<i>Celková výše portfolia pro dlouhodobé zhodnocování činí 1,796 miliardy korun. Další portfolio sestávající se z termínovaných, spořících a obdobných vkladů, ale i z repo operací, tedy zápůjček zajištěných aktivy různých cenných papírů ve výši 1,118 milardy korun považujeme za krátkodobé investice.</i>" 
