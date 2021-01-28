@@ -56,7 +56,7 @@ Samotná zmínka o operačním riziku protistran (operačním rizikem se rozumí
 
 Doporučení v budoucnu posuzovat rizikovost obchodních modelů jednotlivých institucí jednoznačně vyplývá z jejich současných parametrů, které zřejmě potenciální budoucí zvýšená rizikovost přinejmenším nevylučují
 
-Otázkou zůstává, zda by skutečně bylo v budoucnosti možné relativně (sic!) snadno měnit rozsah částek ve správě, protože některé konkrétní investice mohou být méně likvidní (může být problém pro najít kupujícího).
+Otázkou zůstává, zda by skutečně bylo v budoucnosti možné relativně (sic!) snadno měnit rozsah částek ve správě, protože některé konkrétní investice mohou být méně likvidní (může být problém najít kupujícího).
 
 <h3>Diverzifikace přes jednotlivé investiční styly</h3>
 
