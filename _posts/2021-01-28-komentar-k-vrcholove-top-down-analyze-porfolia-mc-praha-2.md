@@ -7,7 +7,7 @@ layout: post
 title: Komentář k Vrcholové (top down) analýze portfolia MČ Praha 2
 author: 
 
-image: posts/podfond_carduus_02.jpg
+image: posts/screenshot_2019-12-05.png
 ---
 
 V prosincovém čísle Novin Prahy 2 nechala radnice naší městské části otisknout část <i>Vrcholové (top down) analýzy</i>, která má dokazovat, že peníze nás všech jsou nainvestovány řádně a bezpečně. Toto tvrzení se opírá o autoritu zpracovatele analýzy, kterým je bývalý vysoký manažer České spořitelny pan Daniel Heler. Považujeme za nezbytné upozornit na skutečnost, že cílem analýzy, která je i podle našeho názoru velmi dobře zpracována, nebylo posoudit rizika konkrétních investic – jedná se o vrcholovou (top down) analýzu, ale upozornit na případné systémové nedostatky. Proto může po zběžném přečtení skutečně být interpretována výše uvedeným způsobem. 
