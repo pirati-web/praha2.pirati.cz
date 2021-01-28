@@ -66,7 +66,7 @@ Protože samozřejmě neznáme strukturu jednotlivých portfolií, nevíme, co s
 
 Ze druhé věty vyplývá, že investice do nemovitostí a akcií jsou zřejmě směrovány do některých odvětví (v následujícím bodu je uvedeno, že se jedná o hotely, cestovní ruch). Otázkou je, proč je do nemovitostí investováno například prostřednictvím  BHS Real Estate Fund Sicav. <b>MČ Praha 2 by mohla investovat přímo do modernizace nemovitostí na svých pozemcích</b>, což by vedlo ke zvýšení kvality života na Praze 2.
 
-V poslední větě se uvádí, že autoři Analýzy nedokázali z podkladů, které měli k dispozici rozlišit u jednotlivých správců podíl produktů třetích stran či vlastních, což považuji za podstatné, a to, jak je uvedeno v Analýze, z důvodu možného zvýšení rizika protistrany.
+V poslední větě se uvádí, že autoři Analýzy nedokázali z podkladů, které měli k dispozici rozlišit u jednotlivých správců podíl produktů třetích stran či vlastních, což považujeme za podstatné, a to, jak je uvedeno v Analýze, z důvodu možného zvýšení rizika protistrany.
 
 <h3>Diverzifikace přes jednotlivé třídy aktiv</h3>
 
