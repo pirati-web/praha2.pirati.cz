@@ -11,7 +11,7 @@ category:
   - sk
   - fv
 ordz: 4
-description: zastupitelka MČ Praha 2, předsedkyně MS Praha 2, knihovnice
+description: zastupitelka MČ Praha 2, knihovnice
 img: people/lydie-bartosova.jpg # zakomentuj radek dokud není fotka
 mail:
   - lydie.bartosova@pirati.cz
