@@ -5,11 +5,12 @@ titles:
   before: 
   after: 
 category:
-  - clenove
   - zastupitel
   - mv
   - sk
   - rrnp2
+  - predsednictvo
+ordpms: 1
 ordz: 2
 description: zastupitelka a místopředsedkyně klubu zastupitelů Pirátů MČ Praha 2, místopředsedkyně KS Praha
 img: people/magdalena-valdmanova.jpg # zakomentuj radek dokud není fotka
