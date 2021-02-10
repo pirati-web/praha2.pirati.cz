@@ -12,7 +12,7 @@ category:
   - predsednictvo
 ordpms: 1
 ordz: 2
-description: zastupitelka a místopředsedkyně klubu zastupitelů Pirátů MČ Praha 2, místopředsedkyně KS Praha
+description: zastupitelka a místopředsedkyně klubu zastupitelů Pirátů MČ Praha 2, předsedkyně MS Praha 2
 img: people/magdalena-valdmanova.jpg # zakomentuj radek dokud není fotka
 mail:
   - magdalena.valdmanova@pirati.cz
