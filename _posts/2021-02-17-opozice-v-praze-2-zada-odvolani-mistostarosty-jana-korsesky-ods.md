@@ -27,3 +27,5 @@ V reakci na kritiku opozice si nechalo vedení radnice Prahy 2 zhotovit tzv. <i>
 „<i>Analýza portfolia sama o sobě hlavně neřeší to podstatné, na co upozorňujeme, a to míru rizikovosti jednotlivých správců portfolia, zvláště když pro nás zastupitele je obestřeno tajemstvím, na základě jakých kritérií poptávkové řízení na jednotlivé správce proběhlo a kdo je vybral,</i>“ doplňuje předseda zastupitelského klubu DVOJKA SOBĚ Otto Schwarz.
 
 Z těchto mnoha důvodů požaduje opozice odvolat zodpovědného zástupce starostky Korsesku z funkce, doplnit <i>Vrcholovou („top down“) analýzu portfolia</i> o posouzení rizikovosti jednotlivých správců portfolií a připravit zadávací podmínky pro poptávkové řízení na správce portfolia. tak, aby obsahovaly jasná hodnotící kritéria, zajistily maximální transparentnost a otevřenost poptávkového řízení.
+
+<i>Tisková zpráva – Piráti, STAN, Dvojka sobě (Zelení, KDU-ČSL,ČSSD, nezávislí kandidáti)</i>
