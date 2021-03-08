@@ -1,5 +1,5 @@
 ---
-date: 2021-03-10
+date: 2021-03-08
 category: blog
 tags:
     
@@ -17,7 +17,7 @@ Prosíme o sdílení a rozšíření této informace, z více stran se k nám do
 
 Termín přihlášky je vpravdě šibeniční – výběrové řízení bylo vyvěšeno 24. 2. 2021 a přihlášky musí být na radnici nejpozději 26. 3. 2021, tedy lhůta je 30 dní, což by byl velmi krátký interval i pro dobu bez nouzového stavu. Shodou okolností visí na stejné <a href="https://urad.praha2.cz/Volna-mista" target="new">úřední desce Prahy 2</a> i výběrové řízení na ředitele ZŠ Mazurská v Praze 8 – s termínem téměř 2,5 x delším. Tím nutně vzniká otázka, jestli chce radnice skutečně hledat z co nejširší palety uchazečů kvalitního kandidáta, nebo chce jen jmenovat někoho již dříve neveřejným způsobem vybraného. 
 
-Na webových stránkách <a href="http://www.zsboticska.cz/" target="new">školy</a> či <a href="http://www.praha2.cz" target="new">Prahy 2</a>, kromě úřední desky „<a href="https://urad.praha2.cz/Volna-mista" target="new">volná místa</a>", jakoukoliv informaci ohledně tohoto výběrového řízení ke dni 10. 3. 2021 nenajdete. Kvalita ředitelů a ředitelek základních škol je přitom pro obyvatele městské části zcela zásadní.
+Na webových stránkách <a href="http://www.zsboticska.cz/" target="new">školy</a> či <a href="http://www.praha2.cz" target="new">Prahy 2</a>, kromě úřední desky „<a href="https://urad.praha2.cz/Volna-mista" target="new">volná místa</a>", jakoukoliv informaci ohledně tohoto výběrového řízení ke dni 8. 3. 2021 nenajdete. Kvalita ředitelů a ředitelek základních škol je přitom pro obyvatele městské části zcela zásadní.
 
 Piráti v Praze 2 <a href="https://praha2.pirati.cz/komunalni-volby/program/praha2018/skolstvi-sport-a-volny-cas/">dlouhodobě prosazují</a> otevřená výběrová řízení na místa ředitelů, chceme vybírat ředitele a ředitelky kvalitní s moderní vizí rozvoje školy. Nechceme dosazovat ředitele po známosti ani podle tradice, ale na základě odbornosti a vize v souladu s dlouhodobou strategií vzdělávání města a městských částí.
 
