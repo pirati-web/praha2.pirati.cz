@@ -75,6 +75,4 @@ nebo osobně do podatelny ÚMČ Praha 2, nám. Míru 20.
 Obálku označte slovy: „<b>Konkursní řízení ZŠ Botičská  – neotvírat</b>“
 
 <hr />
-zdroj: <a href="https://urad.praha2.cz/Konkursni-rizeni-na-vedouci-pracovni-misto-reditel-reditelka-Zakladni-skoly-Praha-2-Boticska-8.html" target="new">urad.praha2.cz/Konkursni-rizeni...</a>
-
 foto: <a href="https://commons.wikimedia.org/wiki/Category:Z%C3%A1kladn%C3%AD_%C5%A1kola_Boti%C4%8Dsk%C3%A1#/media/File:Boti%C4%8Dsk%C3%A1_8,_Na_D%C4%9Bkance_2,_Z%C5%A0_Boti%C4%8Dsk%C3%A1.jpg" target="new">CC BY 4.0, ŠJů, Wikimedia Commons</a>
