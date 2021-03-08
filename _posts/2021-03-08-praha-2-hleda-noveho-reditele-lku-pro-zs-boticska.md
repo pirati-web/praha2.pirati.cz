@@ -19,7 +19,7 @@ Termín přihlášky je vpravdě šibeniční – výběrové řízení bylo vyv
 
 Na webových stránkách <a href="http://www.zsboticska.cz/" target="new">školy</a> či <a href="http://www.praha2.cz" target="new">Prahy 2</a>, kromě úřední desky „<a href="https://urad.praha2.cz/Volna-mista" target="new">volná místa</a>", jakoukoliv informaci ohledně tohoto výběrového řízení ke dni 8. 3. 2021 nenajdete. Kvalita ředitelů a ředitelek základních škol je přitom pro obyvatele městské části zcela zásadní.
 
-Piráti v Praze 2 <a href="https://praha2.pirati.cz/komunalni-volby/program/praha2018/skolstvi-sport-a-volny-cas/">dlouhodobě prosazují</a> otevřená výběrová řízení na místa ředitelů, chceme vybírat ředitele a ředitelky kvalitní s moderní vizí rozvoje školy. Nechceme dosazovat ředitele po známosti ani podle tradice, ale na základě odbornosti a vize v souladu s dlouhodobou strategií vzdělávání města a městských částí.
+Piráti v Praze 2 <a href="https://praha2.pirati.cz/komunalni-volby/program/praha2018/skolstvi-sport-a-volny-cas/">dlouhodobě prosazují</a> otevřená výběrová řízení na místa ředitelů, chceme vybírat ředitele a ředitelky kvalitní a s moderní vizí rozvoje školy. Nechceme dosazovat ředitele po známosti ani podle tradice, ale na základě odbornosti a vize v souladu s dlouhodobou strategií vzdělávání města a městských částí.
 
 
 <h3>Konkursní řízení na vedoucí pracovní místo ředitel/ředitelka Základní školy, Praha 2, Botičská 8</h3>
