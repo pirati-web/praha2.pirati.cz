@@ -11,7 +11,7 @@ image: posts/zs-boticska.jpg
 
 ---
 
-Upozorňujeme na důležitou informaci, která mohla lehce uniknout vaší pozornosti – <a href="https://urad.praha2.cz/Konkursni-rizeni-na-vedouci-pracovni-misto-reditel-reditelka-Zakladni-skoly-Praha-2-Boticska-8.html" target="new">hledá se nový ředitel/ředitelka ZŠ Botičská od školního roku 2021/2022</a
+Upozorňujeme na důležitou informaci, která mohla lehce uniknout vaší pozornosti – <a href="https://urad.praha2.cz/Konkursni-rizeni-na-vedouci-pracovni-misto-reditel-reditelka-Zakladni-skoly-Praha-2-Boticska-8.html" target="new">hledá se nový ředitel/ředitelka ZŠ Botičská od školního roku 2021/2022</a>
   
 Prosíme o sdílení a rozšíření této informace, z více stran se k nám dostávají zprávy, že zrovna tato základní škola nový impuls pro moderní a kvalitní vzdělávání dětí opravdu potřebuje. Praha 2 jako zřizovatel školy si s oslovením co nejširšího možného spektra kvalitních zájemců hlavu neláme.
 
