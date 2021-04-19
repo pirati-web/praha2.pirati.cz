@@ -7,8 +7,8 @@ layout: post
 title: Nájemní bydlení stále prioritou
 author: Jaroslav Němec
 authorId: jaroslav.nemec
-image: posts/np2_2021-04-05.png
 
+image: posts/np2_2021-04-05.png
 ---
 
 Loni jsem na [tomto místě psal](https://praha2.pirati.cz/aktuality/najemni-bydleni-je-priorita.html), že Piráti si přáli snížení výdajů na námi kritizované investiční akce (mj. Nový domov) a zvýšení investic do oprav bytového fondu. Podpora dostupného nájemního bydlení je pro nás priorita. Chtěli jsme se zaměřit na plán smysluplného snižování běžných výdajů, abychom mohli investiční akce financovat nejen zapojením zdrojů z dřívějších prodejů bytů a domů. K tomu nedošlo, letos jsou výdaje výrazně vyšší než příjmy. 
