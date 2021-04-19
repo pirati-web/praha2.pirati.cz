@@ -6,7 +6,7 @@ tags:
 layout: post
 title: Nájemní bydlení stále prioritou
 author: Jaroslav Němec
-authorId: Jaroslav.Nemec
+authorId: jaroslav.nemec
 image: posts/np2_2021-04-05.png
 
 ---
