@@ -2,12 +2,13 @@
 date: 2021-02-05
 category: blog
 tags:
-    
 layout: post
+
 title: Řekneme si to na rovinu
 author: Radek Oborný
-authorId:  # uid nekoho z _people (nepoviné)
-image: posts/01-2021_np2.png
+authorId:  radek.oborny
+
+image: posts/01-2021_np2.jpg
 
 ---
 
