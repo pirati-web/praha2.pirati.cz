@@ -60,7 +60,8 @@ facebook:
 
 twitter:
   loadSDK: true
-  profile: piratipraha2
+  #profile: piratipraha2
+  profilePage: https://twitter.com/piratipraha2
 
 instagram:
   profilePage: https://www.instagram.com/piratipraha2/
