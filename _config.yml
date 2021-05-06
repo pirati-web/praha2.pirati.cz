@@ -60,7 +60,7 @@ facebook:
 
 twitter:
   loadSDK: true
-  profile: piratipraha
+  profile: piratipraha2
   #profilePage: https://twitter.com/piratipraha2
 
 instagram:
@@ -69,12 +69,12 @@ instagram:
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
-forum:
-  page: https://forum.pirati.cz/
+# forum:
+#  page: https://forum.pirati.cz/
 
-github:
-  url: https://github.com/pirati-web/praha2.pirati.cz/
-  branch: master
+# github:
+#   url: https://github.com/pirati-web/praha2.pirati.cz/
+#   branch: master
 
 #
 # This config file is meant for settings that affect your whole blog, values
