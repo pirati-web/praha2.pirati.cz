@@ -9,6 +9,7 @@ author: Jaroslav Němec
 authorId: jaroslav.nemec
 
 image: posts/np2_2021-05-05.jpg
+
 ---
 
 Smetanovo nábřeží vzniklo v 19. století jako promenáda, z níž lze obdivovat protilehlou Malou Stranu a Hradčany. Dopravní role byla spíše druhořadá. Problém nábřeží se řešil po celé 20. století a současný stav je zakonzervované provizorium. Současná podoba s myší dírou u Karlova mostu rovněž není zrovna to, nač by mohla být Praha a její obyvatelé hrdí. Tranzitní automobilová doprava do této části památkové rezervace nepatří. Ve druhé polovině 20. století se konceptem „města pro lidi“ výrazně změnil způsob, jak se o urbanismu a dopravě přemýšlí.  
