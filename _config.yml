@@ -59,7 +59,7 @@ facebook:
   #appId: 1526197851008996
 
 twitter:
-  loadSDK: true
+  #loadSDK: true
   #profile: piratipraha2
   profilePage: https://twitter.com/piratipraha2
 
