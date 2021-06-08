@@ -6,10 +6,8 @@ tags:
 layout: post
 title: Alternativa pro Folimanku
 author: Jaroslav Němec, Radek Zykan
-authorId: jaroslav.nemec radek.zykan
 
 image: posts/zakres_folimanka.jpg
-
 ---
 
 V současné době se hojně diskutuje plánovaná výstavba volnočasového areálu pod Nuselským mostem v parku Folimanka. V rozpočtu pro rok 2021 je na volnočasový areál pod Nuselským mostem vyhrazeno 11,5 mil. Kč a 14,5 mil. Kč je předpoklad pro rok 2022. “Projekt nepovažujeme za dobrý a v rámci Komise rozvoje jsme ho připomínkovali. Požadovali jsme redukci zpevněných ploch a rozšíření zeleně, ale také lepší koncepční provázanost. O opravě velké kaskády toho moc nového nevíme. Součástí má být i umístění sochy skejťáka. Na opravu sochy Praha 2 nenašla loni 250 tis. Kč a lidé se na restaurování museli skládat ve sbírce, ale pro podstavec je ochotna vylít do betonu doslova miliony,” komentoval projekt <a href="https://praha2.pirati.cz/lide/jaroslav-nemec/">Jaroslav Němec</a>, předseda zastupitelského klubu Pirátů Prahy 2. 
