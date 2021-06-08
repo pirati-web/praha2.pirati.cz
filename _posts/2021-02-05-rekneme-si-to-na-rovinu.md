@@ -8,7 +8,7 @@ title: Řekneme si to na rovinu
 author: Radek Oborný
 authorId:  radek.oborny
 
-image: posts/01-2021_np2.jpg
+image: posts/01-2021_np2.png
 
 ---
 
