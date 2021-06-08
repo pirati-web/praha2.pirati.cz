@@ -16,3 +16,7 @@ Současná virová pandemie nám ukazuje, jak důležité je sportovat, hýbat s
 Aleš Chán
 
 [Noviny Prahy 2, červen 2021](https://praha2.cz/file/uuw1/06-2021-PRAHA-NOVINY-WEB.pdf)
+
+Další informace v článku [Alternativa pro Folimanku](https://praha2.pirati.cz/aktuality/alternativa-pro-folimanku.html)
+
+{% asset 'posts/zakres_folimanka.jpg' alt='Vizualizace návrh Pirátů Prahy 2, autor: Radek Zykan' %}
