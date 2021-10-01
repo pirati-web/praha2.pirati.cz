@@ -5,8 +5,6 @@ titles:
   before: 
   after: 
 category:
-  - clenove
-ordclenove: 12
 description: 
 img: people/michaela-kleslova.jpg 
 mail:
