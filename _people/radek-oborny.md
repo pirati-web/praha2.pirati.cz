@@ -6,7 +6,6 @@ titles:
   after: 
 category:
   - clenove
-  - kzp
 ordclenove: 10
 description: 
 img: people/radek-oborny.jpg 
