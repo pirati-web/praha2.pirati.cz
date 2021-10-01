@@ -5,7 +5,6 @@ titles:
   before: Ing.
   after:
 category:
-  - priznivci
   - kzp
 img: people/martin-stich.jpg # zakomentuj radek dokud není fotka
 description: 
