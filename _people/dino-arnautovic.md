@@ -5,6 +5,7 @@ titles:
   before: 
   after: 
 category:
+  - clenove
   - zastupitel
   - mk
   - it
