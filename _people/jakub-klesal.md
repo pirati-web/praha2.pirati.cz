@@ -6,7 +6,6 @@ titles:
   after:
 category:
   - clenove
-  - kzp
 ordclenove: 14
 img: people/jakub-klesal.jpg # zakomentuj radek dokud není fotka
 description: 
