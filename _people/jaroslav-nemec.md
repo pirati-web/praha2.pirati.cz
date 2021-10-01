@@ -8,7 +8,7 @@ category:
   - zastupitel
   - mk
   - kr
-  - kk
+  - kzp
   - kontaktni_osoba
   - predsednictvo
 ordpms: 3
