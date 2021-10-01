@@ -5,7 +5,6 @@ titles:
   before: Mgr.
   after:
 category:
-  - priznivci
   - kk
 img: people/tomas-cada.jpg # zakomentuj radek dokud není fotka
 description: 
