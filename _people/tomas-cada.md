@@ -7,7 +7,7 @@ titles:
 category:
   - kk
 img: people/tomas-cada.jpg # zakomentuj radek dokud není fotka
-description: 
+description: básník, učitel, člen Kulturní komise RMČ Praha 2
 
 mail: tomas.cada@gmail.com
 profiles:
