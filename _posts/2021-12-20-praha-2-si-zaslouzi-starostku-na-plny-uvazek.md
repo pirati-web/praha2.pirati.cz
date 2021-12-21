@@ -8,7 +8,7 @@ title: Praha 2 si pro svůj rozvoj zaslouží starostku na plný úvazek, Alexan
 author: Jaroslav Němec
 authorId:  jaroslav.nemec
 
-image: posts/IMG20211220144607_01.jpg
+image: posts/15_zmc.jpg
 ---
 
 20. prosince, Praha – <strong>MČ Praha 2 má novou starostku, končící Janu Černochovou (ODS) ve funkci nahradí dosavadní radní Alexandra Udženija (ODS). Změnu posvětilo zastupitelstvo MČ na svém prosincovém zasedání. Piráti pro Udženiju ruku nezvedli, vadí jim dlouhodobá kumulace funkcí obou političek.</strong>
