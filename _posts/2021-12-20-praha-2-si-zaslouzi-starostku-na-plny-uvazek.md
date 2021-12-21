@@ -11,7 +11,7 @@ authorId:  jaroslav.nemec
 image: posts/15_zmc.jpg
 ---
 
-<strong>MČ Praha 2 má novou starostku, končící Janu Černochovou (ODS) ve funkci nahradí dosavadní radní Alexandra Udženija (ODS). Změnu posvětilo zastupitelstvo MČ na svém prosincovém zasedání. Pirátům vadí dlouhodobá kumulace funkcí obou političek.</strong>
+<strong>MČ Praha 2 má novou starostku, končící Janu Černochovou (ODS) ve funkci nahradí dosavadní radní Alexandra Udženija (ODS). Změnu posvětilo zastupitelstvo MČ na svém prosincovém zasedání. Pirátům vadí dlouhodobá kumulace uvolněných funkcí.</strong>
 
 “Praha 2 si ve svém čele konečně zaslouží někoho, kdo se bude rozvoji městské části věnovat naplno. Personální výměna na pozici starostky není pro Prahu 2 žádnou pozitivní změnou ani řešením. Naopak, nacházíme se v identické situaci jako s Janou Černochovou, která dlouhodobě kumulovala post starostky a poslankyně. Alexandra Udženija bude souběžně vykonávat svou dosavadní funkci zastupitelky a předsedkyně kontrolního výboru na Magistrátu hlavního města Prahy a nově i funkci starostky městské části. Současná personální politika ODS na radnici je nepřijatelná,” komentuje změnu Jaroslav Němec, předseda zastupitelského klubu Pirátů na Praze 2.
 
