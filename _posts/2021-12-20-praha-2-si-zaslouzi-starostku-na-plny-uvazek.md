@@ -17,4 +17,4 @@ image: posts/15_zmc.jpg
 
 “<i>Udženija na jednání zastupitelstva řekla, že nyní bude vykonávat dvě uvolněné funkce zároveň, ale nastalou situaci chce řešit, na nejbližším zastupitelském klubu ODS hl. m. Prahy,</i>” dodal Němec informace ze samotného jednání.
 
-Jana Černochová vedla městskou část Praha 2 s dvouletou pauzou od roku 2006. V Poslanecké sněmovně zasedá od roku 2010. Po odstoupení z funkce starostky zůstane neuvolněnou členkou rady. Černochová bude také vykonávat funkci ministryně obrany ČR.
+Jana Černochová vedla městskou část Praha 2 s dvouletou pauzou od roku 2006. V Poslanecké sněmovně zasedá od roku 2010. Po odstoupení z funkce starostky zůstane neuvolněnou členkou rady pro školství. Černochová bude také vykonávat funkci ministryně obrany ČR.
