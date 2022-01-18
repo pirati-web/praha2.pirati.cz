@@ -8,7 +8,7 @@ title: Radnice Prahy 2 pod tlakem Pirátů přiznala svou chybu a odpustí senio
 author: Magdalena Valdmanová, Jaroslav Němec
 authorId:  
 
-image: posts/15_zmc.jpg
+image: posts/usneseni_201.jpg
 ---
 
 Vedení radnice Prahy 2 mění pod tlakem Pirátů a veřejnosti své rozhodnutí. Na příštím jednání Rady MČ Praha 2 se bude znovu projednávat odpuštění dluhu více než 277 tisíc korun, který vznikl seniorce v obecním nájmu kvůli vadnému pojistnému ventilu u bojleru. Věc projednalo zastupitelstvo MČ Praha 2 už na svém prosincovém jednání, ale tehdy nebyl návrh zastupitelky Magdaleny Valdmanové (Piráti) na odpuštění dluhu schválen, prošel pouze návrh na snížení výše pravidelných splátek.
