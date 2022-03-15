@@ -5,7 +5,7 @@ tags:
     
 layout: post
 title: Dvojka Stínadelská
-author: Tomíš Čada
+author: Tomáš Čada
 authorId:  tomas.cada
 
 image: posts/np2-11-2021.png
