@@ -8,12 +8,12 @@
 title: Pirati Praha 2
 email: praha2@pirati.cz
 description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+  Místní sdružení Pírátů Prahy 2. 
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, Praha 2
 
 administrator:
-  email: dino.adrnautovic@pirati.cz # mail kam pujdou chybove vystupy
+  email: praha2@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
   name: Praha 2
