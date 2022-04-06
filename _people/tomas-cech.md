@@ -1,0 +1,17 @@
+---
+uid: tomas.cech
+name: Tomuš Čech  	# běžně používáné jméno
+titles:
+  before: 
+  after:
+category:
+  - priznivci
+img: people/tomas-cech.jpg # zakomentuj radek dokud není fotka
+
+description: IT
+
+mail:
+  - 
+profiles:
+ 
+---
