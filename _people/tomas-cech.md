@@ -1,6 +1,6 @@
 ---
 uid: tomas.cech
-name: Tomuš Čech  	# běžně používáné jméno
+name: Tomáš Čech  	# běžně používáné jméno
 titles:
   before: 
   after:
