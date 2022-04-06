@@ -6,6 +6,7 @@ titles:
   after:
 category:
   - kk
+  - priznivci
 img: people/tomas-cada.jpg # zakomentuj radek dokud není fotka
 description: básník, učitel, člen Kulturní komise RMČ Praha 2
 
