@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-  - priznivci
+  - clenove
 img: people/tomas-cech.jpg # zakomentuj radek dokud není fotka
 
 description: IT
