@@ -1,7 +1,7 @@
 --- 
 layout: members
 title: Odměny zastupitelů MČ Praha 2 za Piráty
-description: Chceme moderní městský obvod.
+description: Chceme moderní městský obvod.
 keywords: lidé, zastupitelé, zastupitelky, členové, piráti, pirátky, příznivci
 viewMode: grouped # or alltogether
 groups:
