@@ -120,7 +120,7 @@ collections:
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
-    output: false
+    output: true
 
 defaults:   # defaults values for collection scope
   -
