@@ -55,4 +55,4 @@ groups:
     sort: ordpms
 ---
 
-[Odměny zastupitelů](/komunalni-volby/zastupitelsky-klub-odmeny/) – [Program pro Prahu 2 (Volby 2018)](/aktuality/konec-devadesatek.html) 
+[Odměny zastupitelů](/komunalni-volby/zastupitelsky-klub-odmeny/) 
