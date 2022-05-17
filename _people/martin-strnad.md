@@ -8,7 +8,7 @@ category:
   - bk
 img: people/martin-strnad.jpg # zakomentuj radek dokud není fotka
 
-description: 
+description: člen Bezpečnostní komise RMČ Prahy 2
 mail:
   - 
 profiles:
