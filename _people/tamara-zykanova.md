@@ -8,7 +8,7 @@ category:
   - kvv
 img: people/tamara-zykanova.jpg # zakomentuj radek dokud není fotka
 
-description:
+description: členka Komise výchovy a vzdělávání RMČ Praha 2
 
 mail:
   - 
