@@ -9,7 +9,7 @@ category:
   - zastupitel
   - kv
   - bk
-  - rrnp2
+  - dk
 ordz: 3
 description: zastupitel MČ Praha 2, předseda Kontrolního výboru ZMČ Praha 2, vydavatel
 img: people/robert-veverka.jpg # zakomentuj radek dokud není fotka
