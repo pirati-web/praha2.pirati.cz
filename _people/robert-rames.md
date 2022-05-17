@@ -6,7 +6,6 @@ titles:
   after: 
 category:
   - clenove
-  - dk
 img: people/robert-rames.jpg # zakomentuj radek dokud není fotka
 ordclenove: 10
 description: IT, Právník
