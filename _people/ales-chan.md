@@ -9,7 +9,7 @@ category:
   - fk
 img: people/ales-chan.jpg # zakomentuj radek dokud není fotka
 
-description: analytik zastupitelského klubu
+description: člen Finanční komise RMČ Praha 2
 
 mail:
   - ales@iamprague.eu
