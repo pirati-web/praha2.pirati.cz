@@ -16,7 +16,7 @@ Soukromý vlastník domu v Havlíčkových sadech v roce 2008 požádal o proná
 
 {% asset 'posts/grebovka_srovnani.jpg' alt='Srovnání stavu v roce 2008 a 2022' %}
 
-Nyní Praha 2 odprodává 5 m2 dříve zastavěné příjezdové cesty za 90.641,85 Kč (tedy 18.128,37 Kč/m2) a pozemek parku včetně parkové cesty o výměře 95 m2 prodává za 376.131,60 Kč (tedy jen 3.959,28 Kč/m2). Tento pozemek přiléhá k budově u hlavního vstupu a tímto prodejem se tak soukromá část rozšíří dále směrem do parku.
+Nyní Praha 2 odprodává 5 m2 zastavěné příjezdové cesty za 90.641,85 Kč (tedy 18.128,37 Kč/m2) a pozemek parku včetně parkové cesty o výměře 95 m2 prodává za 376.131,60 Kč (tedy jen 3.959,28 Kč/m2). Tento pozemek přiléhá k budově u hlavního vstupu a tímto prodejem se tak soukromá část rozšíří dále směrem do parku.
 
 „<i>Tato cena za kus parku na Vinohradech mi přijde směšná. Ve srovnání s cenami za které prodává hl. město Praha. Právě byl například odsouhlašen prodej 16 m2 oplocené zahrady v Praze 12, kde pán po desetiletích zjistil, že mu tento kus nepatří, za 9 510 kč za metr čtvereční</i>“, okomentovala prodej Magdalena Valdmanová, zastupitelka Prahy 2 a kandidátka Pirátů na starostku Prahy 2.
 
