@@ -21,3 +21,6 @@ Nyní Praha 2 odprodává 5 m2 dříve zastavěné příjezdové cesty za 90.641
 „<i>Tato cena za kus parku na Vinohradech mi přijde směšná. Ve srovnání s cenami za které prodává hl. město Praha. Právě byl například odsouhlašen prodej 16 m2 oplocené zahrady v Praze 12, kde pán po desetiletích zjistil, že mu tento kus nepatří, za 9 510 kč za metr čtvereční</i>“, okomentovala prodej Magdalena Valdmanová, zastupitelka Prahy 2 a kandidátka Pirátů na starostku Prahy 2.
 
 Piráti soustavně kritizují vládnoucí koalici za dlouhodobě netransparentní a necitlivé nakládání s veřejným prostorem a majetkem, viz kauza Folimanka. Ale že by někdo obchodně spekuloval s pozemky veřejného parku, je již na hranici představitelného. Parky patří lidem, ne soukromým subjektům. Podobné kroky se už nesmí opakovat.
+
+{% asset 'posts/grebovka_02.jpg' alt='Současný stav, 2022' %}
+{% asset 'posts/grebovka_03.jpg' alt='Současný stav, 2022' %}
