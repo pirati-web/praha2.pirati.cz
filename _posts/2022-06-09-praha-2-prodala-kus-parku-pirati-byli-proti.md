@@ -12,7 +12,7 @@ image: posts/grebovka_01.jpg
 
 Na posledním zastupitelstvu Prahy 2 odsouhlasila koaliční většina (ODS, ANO a TOP 09) prodej kusu parku za velmi nízkou cenu. Rozprodávat městský majetek v době inflace nedává smysl. Prodat za ní kus parku, tedy veřejného prostoru, je nepřístojnost.
 
-Soukromý vlastník domu v Havlíčkových sadech před dvaceti lety probíhala rekonstrukce domu, jejíž část v <a href="https://pamatky.praha.eu/jnp/cz/pamatkovy_fond/pamatkove_uspechy/pamatkove_hrichy/pamatkove_hrichy-havlickovy_sady_2_c_p_59_vinohrady_praha_2_index.html" target="new">minulosti kritizovali památkáři</a>, během které nebyla řešena zzastavěná část (5 m2) příjezdové cesty. V roce 2008 požádal o pronájem nebo prodej části pozemku v parku kolem jeho domu. Praha 2 mezi tím park opravila z Evropských dotací včetně parkové cesty kolem soukromé nemovitosti. Za zastavěnou část pozemku Prahy 2 a další části parku, které využíval i jako parkoviště, nájem neplatil.
+Soukromý vlastník domu v Havlíčkových sadech před dvaceti lety probíhala rekonstrukce domu, jejíž část v <a href="https://pamatky.praha.eu/jnp/cz/pamatkovy_fond/pamatkove_uspechy/pamatkove_hrichy/pamatkove_hrichy-havlickovy_sady_2_c_p_59_vinohrady_praha_2_index.html" target="new">minulosti kritizovali památkáři</a>, během které nebyla řešena zzastavěná část (5 m2) příjezdové cesty. V roce 2008 požádal o pronájem nebo prodej části pozemku v parku kolem jeho domu. Praha 2 mezi tím park opravila z Evropských dotací včetně parkové cesty kolem soukromé nemovitosti. Za zastavěnou část pozemku Prahy 2 a další části parku, které využíval i jako parkoviště, nájem neplatil, jelikož Praha 2 nájemní vztah neuzavřela.
 
 {% asset 'posts/grebovka_srovnani.jpg' alt='Srovnání stavu v roce 2008 a 2022' %}
 
