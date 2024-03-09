@@ -1,3 +1,6 @@
+To view code in GitHub preview, you need to add a Gemfile to your GitHub repository. Here is the Gemfile content you can add:
+You can create a file called Gemfile in your repository locally, and then add and commit this file to your remote repository on GitHub. After that, you will be able to view the Gemfile code in the GitHub preview
+
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
